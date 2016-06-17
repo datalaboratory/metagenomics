@@ -11,6 +11,7 @@
     "autoprefixer": "^6.3.6",
     "coffee-script": "^1.10.0",
     "d3": "^3.5.16",
+    "d3-geo-projection": "^0.2.16",
     "d3-queue": "^3.0.0",
     "del": "^2.2.0",
     "gulp": "^3.9.1",
