@@ -7,6 +7,7 @@
   ],
   "devDependencies": {
     "angular": "^1.5.5",
+    "angular-once": "^0.1.9",
     "angular-route": "^1.5.5",
     "autoprefixer": "^6.3.6",
     "coffee-script": "^1.10.0",
