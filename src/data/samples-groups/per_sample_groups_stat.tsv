@@ -39581,3 +39581,2595 @@ Coumarin	FR-229	1.62286301833e-08	ABX mutations
 Rifampin	FR-229	1.87335997563e-08	ABX mutations
 Sulfonamides	FR-229	2.22168676366e-08	ABX mutations
 Fluoroquinolones	FR-229	1.3432655281e-07	ABX mutations
+Metals	OM_193	7.34201711882e-10	Metals
+Biocides	OM_193	9.73721165258e-11	Biocides
+Metals	RND_301	2.19419101895e-09	Metals
+Biocides	RND_301	1.52892751825e-09	Biocides
+Metals	OM_181	1.45498172659e-09	Metals
+Biocides	OM_181	5.27666369578e-10	Biocides
+Aminoglycoside	NOV_285	2.95936340886e-09	ABX determinants
+Tetracycline derivative	NOV_285	6.97018305194e-08	ABX determinants
+Nucleoside	NOV_285	0	ABX determinants
+Pleuromutilin	NOV_285	0	ABX determinants
+Diaminopyrimidine	NOV_285	1.00771120617e-09	ABX determinants
+Glycopeptide	NOV_285	1.12762936019e-10	ABX determinants
+Lincosamide	NOV_285	1.50286508638e-08	ABX determinants
+Streptogramin	NOV_285	1.46643136473e-08	ABX determinants
+Sulfonamide	NOV_285	0	ABX determinants
+Aminonucleoside	NOV_285	0	ABX determinants
+Aminocoumarin	NOV_285	0	ABX determinants
+Miscellaneous	NOV_285	0	ABX determinants
+Rifamycin	NOV_285	0	ABX determinants
+Lipopeptide	NOV_285	1.20191899358e-09	ABX determinants
+Fluoroquinolone	NOV_285	3.2184591119e-09	ABX determinants
+Oxazolidinone	NOV_285	0	ABX determinants
+Macrolide	NOV_285	1.54578206351e-08	ABX determinants
+Phenicol	NOV_285	6.67797762747e-09	ABX determinants
+Elfamycin	NOV_285	0	ABX determinants
+Beta-lactam	NOV_285	1.20803922512e-08	ABX determinants
+Peptide	NOV_285	5.86422073101e-10	ABX determinants
+Coumarin	NOV_285	5.02735368462e-09	ABX mutations
+Rifampin	NOV_285	1.41369867683e-09	ABX mutations
+Sulfonamides	NOV_285	0.0	ABX mutations
+Fluoroquinolones	NOV_285	8.59452851487e-09	ABX mutations
+Metals	SAR_267	1.51826392747e-09	Metals
+Biocides	SAR_267	8.99812124417e-10	Biocides
+Aminoglycoside	RND_313	3.39782210825e-10	ABX determinants
+Tetracycline derivative	RND_313	1.03422550216e-07	ABX determinants
+Nucleoside	RND_313	1.23716749011e-10	ABX determinants
+Pleuromutilin	RND_313	0	ABX determinants
+Diaminopyrimidine	RND_313	7.46291356935e-10	ABX determinants
+Glycopeptide	RND_313	1.57247456686e-11	ABX determinants
+Lincosamide	RND_313	1.41853755689e-08	ABX determinants
+Streptogramin	RND_313	1.38965602665e-08	ABX determinants
+Sulfonamide	RND_313	2.47130641843e-10	ABX determinants
+Aminonucleoside	RND_313	0	ABX determinants
+Aminocoumarin	RND_313	3.7176855616e-10	ABX determinants
+Miscellaneous	RND_313	0	ABX determinants
+Rifamycin	RND_313	2.24913266749e-10	ABX determinants
+Lipopeptide	RND_313	1.12943498085e-09	ABX determinants
+Fluoroquinolone	RND_313	1.6997875499e-09	ABX determinants
+Oxazolidinone	RND_313	0	ABX determinants
+Macrolide	RND_313	1.45801557706e-08	ABX determinants
+Phenicol	RND_313	3.35272645968e-09	ABX determinants
+Elfamycin	RND_313	0	ABX determinants
+Beta-lactam	RND_313	1.9945268611e-08	ABX determinants
+Peptide	RND_313	1.22664480186e-10	ABX determinants
+Coumarin	RND_313	1.0726662809e-09	ABX mutations
+Rifampin	RND_313	7.31412339325e-10	ABX mutations
+Sulfonamides	RND_313	3.75573922233e-10	ABX mutations
+Fluoroquinolones	RND_313	7.92791488393e-09	ABX mutations
+Metals	Spb_73_13P	2.34984242227e-07	Metals
+Biocides	Spb_73_13P	1.75559058908e-07	Biocides
+Aminoglycoside	OM_195	9.47875415576e-09	ABX determinants
+Tetracycline derivative	OM_195	7.78387702687e-08	ABX determinants
+Nucleoside	OM_195	1.13229380763e-08	ABX determinants
+Pleuromutilin	OM_195	0	ABX determinants
+Diaminopyrimidine	OM_195	3.70382467917e-09	ABX determinants
+Glycopeptide	OM_195	5.04974447737e-11	ABX determinants
+Lincosamide	OM_195	2.41707896071e-08	ABX determinants
+Streptogramin	OM_195	2.38816936072e-08	ABX determinants
+Sulfonamide	OM_195	1.32269928783e-10	ABX determinants
+Aminonucleoside	OM_195	0	ABX determinants
+Aminocoumarin	OM_195	1.55704281189e-10	ABX determinants
+Miscellaneous	OM_195	0	ABX determinants
+Rifamycin	OM_195	0	ABX determinants
+Lipopeptide	OM_195	2.84723112998e-10	ABX determinants
+Fluoroquinolone	OM_195	7.92827030755e-10	ABX determinants
+Oxazolidinone	OM_195	0	ABX determinants
+Macrolide	OM_195	2.41136997192e-08	ABX determinants
+Phenicol	OM_195	2.94406577062e-09	ABX determinants
+Elfamycin	OM_195	0	ABX determinants
+Beta-lactam	OM_195	2.18117142286e-08	ABX determinants
+Peptide	OM_195	0	ABX determinants
+Coumarin	OM_195	3.34451755023e-10	ABX mutations
+Rifampin	OM_195	7.19390822489e-10	ABX mutations
+Sulfonamides	OM_195	0.0	ABX mutations
+Fluoroquinolones	OM_195	4.98025760127e-09	ABX mutations
+Aminoglycoside	TYV_204	1.9652093891e-09	ABX determinants
+Tetracycline derivative	TYV_204	1.00860664521e-07	ABX determinants
+Nucleoside	TYV_204	9.20960008369e-10	ABX determinants
+Pleuromutilin	TYV_204	0	ABX determinants
+Diaminopyrimidine	TYV_204	8.29483714068e-09	ABX determinants
+Glycopeptide	TYV_204	3.70067969168e-11	ABX determinants
+Lincosamide	TYV_204	1.82238731726e-08	ABX determinants
+Streptogramin	TYV_204	1.82122910104e-08	ABX determinants
+Sulfonamide	TYV_204	0	ABX determinants
+Aminonucleoside	TYV_204	0	ABX determinants
+Aminocoumarin	TYV_204	4.88667111133e-11	ABX determinants
+Miscellaneous	TYV_204	0	ABX determinants
+Rifamycin	TYV_204	4.20868821029e-11	ABX determinants
+Lipopeptide	TYV_204	2.10434410514e-11	ABX determinants
+Fluoroquinolone	TYV_204	2.20123741658e-10	ABX determinants
+Oxazolidinone	TYV_204	0	ABX determinants
+Macrolide	TYV_204	1.83371664463e-08	ABX determinants
+Phenicol	TYV_204	3.05109293276e-09	ABX determinants
+Elfamycin	TYV_204	0	ABX determinants
+Beta-lactam	TYV_204	3.18170056896e-08	ABX determinants
+Peptide	TYV_204	2.53646336853e-11	ABX determinants
+Coumarin	TYV_204	2.03111396037e-09	ABX mutations
+Rifampin	TYV_204	1.29849295902e-09	ABX mutations
+Sulfonamides	TYV_204	1.55270488451e-10	ABX mutations
+Fluoroquinolones	TYV_204	7.47620554318e-09	ABX mutations
+Aminoglycoside	OM_179	8.11642399791e-09	ABX determinants
+Tetracycline derivative	OM_179	7.81883592684e-07	ABX determinants
+Nucleoside	OM_179	3.32725820349e-09	ABX determinants
+Pleuromutilin	OM_179	0	ABX determinants
+Diaminopyrimidine	OM_179	5.21321561837e-10	ABX determinants
+Glycopeptide	OM_179	6.61201893333e-11	ABX determinants
+Lincosamide	OM_179	3.90506686931e-09	ABX determinants
+Streptogramin	OM_179	3.30335535518e-09	ABX determinants
+Sulfonamide	OM_179	5.4345417123e-11	ABX determinants
+Aminonucleoside	OM_179	0	ABX determinants
+Aminocoumarin	OM_179	9.08624171971e-10	ABX determinants
+Miscellaneous	OM_179	0	ABX determinants
+Rifamycin	OM_179	4.19953480369e-10	ABX determinants
+Lipopeptide	OM_179	2.25048907049e-09	ABX determinants
+Fluoroquinolone	OM_179	3.09735336004e-09	ABX determinants
+Oxazolidinone	OM_179	0	ABX determinants
+Macrolide	OM_179	4.70277471429e-09	ABX determinants
+Phenicol	OM_179	6.29945653437e-09	ABX determinants
+Elfamycin	OM_179	0	ABX determinants
+Beta-lactam	OM_179	3.95849515374e-09	ABX determinants
+Peptide	OM_179	4.97461968282e-10	ABX determinants
+Coumarin	OM_179	6.50589940819e-09	ABX mutations
+Rifampin	OM_179	2.47764682178e-10	ABX mutations
+Sulfonamides	OM_179	0.0	ABX mutations
+Fluoroquinolones	OM_179	6.05342842466e-09	ABX mutations
+Aminoglycoside	TYV_215	1.92000843031e-09	ABX determinants
+Tetracycline derivative	TYV_215	7.07223364659e-08	ABX determinants
+Nucleoside	TYV_215	6.23824131437e-10	ABX determinants
+Pleuromutilin	TYV_215	0	ABX determinants
+Diaminopyrimidine	TYV_215	2.73677683469e-09	ABX determinants
+Glycopeptide	TYV_215	6.16911278109e-10	ABX determinants
+Lincosamide	TYV_215	2.32165405746e-08	ABX determinants
+Streptogramin	TYV_215	2.2485382839e-08	ABX determinants
+Sulfonamide	TYV_215	0	ABX determinants
+Aminonucleoside	TYV_215	0	ABX determinants
+Aminocoumarin	TYV_215	8.72476738395e-11	ABX determinants
+Miscellaneous	TYV_215	0	ABX determinants
+Rifamycin	TYV_215	0	ABX determinants
+Lipopeptide	TYV_215	3.51947378524e-10	ABX determinants
+Fluoroquinolone	TYV_215	1.95419830464e-10	ABX determinants
+Oxazolidinone	TYV_215	0	ABX determinants
+Macrolide	TYV_215	2.2547346459e-08	ABX determinants
+Phenicol	TYV_215	4.86303428025e-09	ABX determinants
+Elfamycin	TYV_215	0	ABX determinants
+Beta-lactam	TYV_215	1.47000379752e-08	ABX determinants
+Peptide	TYV_215	4.12345476916e-11	ABX determinants
+Coumarin	TYV_215	2.34401406352e-09	ABX mutations
+Rifampin	TYV_215	1.27380863818e-09	ABX mutations
+Sulfonamides	TYV_215	0.0	ABX mutations
+Fluoroquinolones	TYV_215	5.26934149881e-09	ABX mutations
+Aminoglycoside	TAT_130	3.15931882403e-09	ABX determinants
+Tetracycline derivative	TAT_130	1.84045153745e-07	ABX determinants
+Nucleoside	TAT_130	1.3301581905e-09	ABX determinants
+Pleuromutilin	TAT_130	0	ABX determinants
+Diaminopyrimidine	TAT_130	3.52513812487e-08	ABX determinants
+Glycopeptide	TAT_130	2.0702061481e-11	ABX determinants
+Lincosamide	TAT_130	2.24180621024e-09	ABX determinants
+Streptogramin	TAT_130	2.09274494093e-09	ABX determinants
+Sulfonamide	TAT_130	9.03761965918e-11	ABX determinants
+Aminonucleoside	TAT_130	0	ABX determinants
+Aminocoumarin	TAT_130	8.50251827618e-11	ABX determinants
+Miscellaneous	TAT_130	0	ABX determinants
+Rifamycin	TAT_130	4.9079630074e-11	ABX determinants
+Lipopeptide	TAT_130	2.18814243602e-10	ABX determinants
+Fluoroquinolone	TAT_130	3.11714871917e-10	ABX determinants
+Oxazolidinone	TAT_130	0	ABX determinants
+Macrolide	TAT_130	2.2153397214e-09	ABX determinants
+Phenicol	TAT_130	3.93487014829e-09	ABX determinants
+Elfamycin	TAT_130	0	ABX determinants
+Beta-lactam	TAT_130	7.55081044782e-09	ABX determinants
+Peptide	TAT_130	7.17738543042e-11	ABX determinants
+Coumarin	TAT_130	4.02568996396e-09	ABX mutations
+Rifampin	TAT_130	1.17152636894e-09	ABX mutations
+Sulfonamides	TAT_130	0.0	ABX mutations
+Fluoroquinolones	TAT_130	1.57221804911e-08	ABX mutations
+Metals	TAT_146	2.65571615195e-09	Metals
+Biocides	TAT_146	9.81928320419e-10	Biocides
+Metals	Spb_70_10P	6.1142078237e-09	Metals
+Biocides	Spb_70_10P	4.12342093869e-09	Biocides
+Metals	RND_312	2.03791268624e-09	Metals
+Biocides	RND_312	1.63493387647e-09	Biocides
+Aminoglycoside	Spb_66_6P	1.18149974831e-10	ABX determinants
+Tetracycline derivative	Spb_66_6P	1.66902098338e-07	ABX determinants
+Nucleoside	Spb_66_6P	0	ABX determinants
+Pleuromutilin	Spb_66_6P	0	ABX determinants
+Diaminopyrimidine	Spb_66_6P	1.54712437924e-09	ABX determinants
+Glycopeptide	Spb_66_6P	0	ABX determinants
+Lincosamide	Spb_66_6P	3.78203911616e-08	ABX determinants
+Streptogramin	Spb_66_6P	3.78203911616e-08	ABX determinants
+Sulfonamide	Spb_66_6P	0	ABX determinants
+Aminonucleoside	Spb_66_6P	0	ABX determinants
+Aminocoumarin	Spb_66_6P	1.38460122713e-11	ABX determinants
+Miscellaneous	Spb_66_6P	0	ABX determinants
+Rifamycin	Spb_66_6P	0	ABX determinants
+Lipopeptide	Spb_66_6P	4.5444497116e-10	ABX determinants
+Fluoroquinolone	Spb_66_6P	3.51622325131e-10	ABX determinants
+Oxazolidinone	Spb_66_6P	0	ABX determinants
+Macrolide	Spb_66_6P	3.78827359733e-08	ABX determinants
+Phenicol	Spb_66_6P	4.77164544046e-10	ABX determinants
+Elfamycin	Spb_66_6P	0	ABX determinants
+Beta-lactam	Spb_66_6P	1.47134610769e-07	ABX determinants
+Peptide	Spb_66_6P	5.18005732484e-11	ABX determinants
+Coumarin	Spb_66_6P	7.4622615789e-10	ABX mutations
+Rifampin	Spb_66_6P	2.0940825273e-09	ABX mutations
+Sulfonamides	Spb_66_6P	0.0	ABX mutations
+Fluoroquinolones	Spb_66_6P	3.60529374563e-09	ABX mutations
+Aminoglycoside	RND_314	7.12207679931e-09	ABX determinants
+Tetracycline derivative	RND_314	1.54066869061e-07	ABX determinants
+Nucleoside	RND_314	3.04713527753e-10	ABX determinants
+Pleuromutilin	RND_314	0	ABX determinants
+Diaminopyrimidine	RND_314	6.6840386733e-10	ABX determinants
+Glycopeptide	RND_314	0	ABX determinants
+Lincosamide	RND_314	5.64476314466e-09	ABX determinants
+Streptogramin	RND_314	4.81958409765e-09	ABX determinants
+Sulfonamide	RND_314	0	ABX determinants
+Aminonucleoside	RND_314	0	ABX determinants
+Aminocoumarin	RND_314	4.84027707153e-10	ABX determinants
+Miscellaneous	RND_314	0	ABX determinants
+Rifamycin	RND_314	1.9444390352e-10	ABX determinants
+Lipopeptide	RND_314	1.34565184345e-09	ABX determinants
+Fluoroquinolone	RND_314	1.79307804346e-09	ABX determinants
+Oxazolidinone	RND_314	0	ABX determinants
+Macrolide	RND_314	5.77748976951e-09	ABX determinants
+Phenicol	RND_314	2.71705765649e-09	ABX determinants
+Elfamycin	RND_314	0	ABX determinants
+Beta-lactam	RND_314	2.05112259425e-08	ABX determinants
+Peptide	RND_314	4.69967239241e-10	ABX determinants
+Coumarin	RND_314	8.74424633964e-10	ABX mutations
+Rifampin	RND_314	9.79913647747e-10	ABX mutations
+Sulfonamides	RND_314	0.0	ABX mutations
+Fluoroquinolones	RND_314	7.60871392425e-09	ABX mutations
+Aminoglycoside	Spb_72_12P	1.31867782669e-09	ABX determinants
+Tetracycline derivative	Spb_72_12P	1.07716923388e-07	ABX determinants
+Nucleoside	Spb_72_12P	1.40866835817e-10	ABX determinants
+Pleuromutilin	Spb_72_12P	0	ABX determinants
+Diaminopyrimidine	Spb_72_12P	6.1027148549e-09	ABX determinants
+Glycopeptide	Spb_72_12P	2.28777616946e-10	ABX determinants
+Lincosamide	Spb_72_12P	2.42091669154e-09	ABX determinants
+Streptogramin	Spb_72_12P	1.95648300255e-09	ABX determinants
+Sulfonamide	Spb_72_12P	0	ABX determinants
+Aminonucleoside	Spb_72_12P	0	ABX determinants
+Aminocoumarin	Spb_72_12P	6.91960152893e-10	ABX determinants
+Miscellaneous	Spb_72_12P	0	ABX determinants
+Rifamycin	Spb_72_12P	3.08998220501e-10	ABX determinants
+Lipopeptide	Spb_72_12P	2.08086026612e-09	ABX determinants
+Fluoroquinolone	Spb_72_12P	2.49460502631e-09	ABX determinants
+Oxazolidinone	Spb_72_12P	0	ABX determinants
+Macrolide	Spb_72_12P	3.17091937565e-09	ABX determinants
+Phenicol	Spb_72_12P	4.3781028356e-09	ABX determinants
+Elfamycin	Spb_72_12P	0	ABX determinants
+Beta-lactam	Spb_72_12P	7.32376383153e-09	ABX determinants
+Peptide	Spb_72_12P	3.72449859948e-10	ABX determinants
+Coumarin	Spb_72_12P	2.90534399476e-09	ABX mutations
+Rifampin	Spb_72_12P	1.37401905596e-09	ABX mutations
+Sulfonamides	Spb_72_12P	1.12051507784e-09	ABX mutations
+Fluoroquinolones	Spb_72_12P	1.3995943246e-08	ABX mutations
+Aminoglycoside	Spb_100_40P	2.2401024682e-10	ABX determinants
+Tetracycline derivative	Spb_100_40P	1.19161996232e-07	ABX determinants
+Nucleoside	Spb_100_40P	5.02216969717e-11	ABX determinants
+Pleuromutilin	Spb_100_40P	0	ABX determinants
+Diaminopyrimidine	Spb_100_40P	1.98294700301e-09	ABX determinants
+Glycopeptide	Spb_100_40P	6.38331849359e-11	ABX determinants
+Lincosamide	Spb_100_40P	4.06113622259e-09	ABX determinants
+Streptogramin	Spb_100_40P	3.78517053418e-09	ABX determinants
+Sulfonamide	Spb_100_40P	0	ABX determinants
+Aminonucleoside	Spb_100_40P	0	ABX determinants
+Aminocoumarin	Spb_100_40P	1.77464132203e-11	ABX determinants
+Miscellaneous	Spb_100_40P	0	ABX determinants
+Rifamycin	Spb_100_40P	0	ABX determinants
+Lipopeptide	Spb_100_40P	2.24368133522e-10	ABX determinants
+Fluoroquinolone	Spb_100_40P	1.96773150949e-10	ABX determinants
+Oxazolidinone	Spb_100_40P	0	ABX determinants
+Macrolide	Spb_100_40P	4.22715548279e-09	ABX determinants
+Phenicol	Spb_100_40P	3.21724469324e-09	ABX determinants
+Elfamycin	Spb_100_40P	0	ABX determinants
+Beta-lactam	Spb_100_40P	6.67649325133e-08	ABX determinants
+Peptide	Spb_100_40P	0	ABX determinants
+Coumarin	Spb_100_40P	2.14383711269e-09	ABX mutations
+Rifampin	Spb_100_40P	1.33074235264e-09	ABX mutations
+Sulfonamides	Spb_100_40P	5.69164904446e-09	ABX mutations
+Fluoroquinolones	Spb_100_40P	1.58562141952e-08	ABX mutations
+Metals	RND_307	1.35691899427e-09	Metals
+Biocides	RND_307	4.57006389054e-10	Biocides
+Metals	TYV_215	5.15123683029e-10	Metals
+Biocides	TYV_215	4.08897364306e-10	Biocides
+Metals	OM_192	2.77003319613e-10	Metals
+Biocides	OM_192	8.73187646699e-10	Biocides
+Metals	TYV_202	1.28710492537e-09	Metals
+Biocides	TYV_202	4.83436280735e-10	Biocides
+Aminoglycoside	Spb_74_14P	4.48299678034e-09	ABX determinants
+Tetracycline derivative	Spb_74_14P	1.28583304804e-07	ABX determinants
+Nucleoside	Spb_74_14P	9.83714150179e-10	ABX determinants
+Pleuromutilin	Spb_74_14P	0	ABX determinants
+Diaminopyrimidine	Spb_74_14P	2.31195491517e-09	ABX determinants
+Glycopeptide	Spb_74_14P	2.79826656399e-11	ABX determinants
+Lincosamide	Spb_74_14P	2.30838987036e-08	ABX determinants
+Streptogramin	Spb_74_14P	1.98705440616e-08	ABX determinants
+Sulfonamide	Spb_74_14P	5.61434339252e-10	ABX determinants
+Aminonucleoside	Spb_74_14P	0	ABX determinants
+Aminocoumarin	Spb_74_14P	2.0644882172e-10	ABX determinants
+Miscellaneous	Spb_74_14P	0	ABX determinants
+Rifamycin	Spb_74_14P	7.70651638389e-11	ABX determinants
+Lipopeptide	Spb_74_14P	2.95635236375e-10	ABX determinants
+Fluoroquinolone	Spb_74_14P	5.13776402598e-10	ABX determinants
+Oxazolidinone	Spb_74_14P	0	ABX determinants
+Macrolide	Spb_74_14P	2.02685240589e-08	ABX determinants
+Phenicol	Spb_74_14P	3.6255717172e-09	ABX determinants
+Elfamycin	Spb_74_14P	0	ABX determinants
+Beta-lactam	Spb_74_14P	1.19536615035e-08	ABX determinants
+Peptide	Spb_74_14P	0	ABX determinants
+Coumarin	Spb_74_14P	1.63849374349e-09	ABX mutations
+Rifampin	Spb_74_14P	8.50402471579e-10	ABX mutations
+Sulfonamides	Spb_74_14P	4.79279559401e-09	ABX mutations
+Fluoroquinolones	Spb_74_14P	1.23174555287e-08	ABX mutations
+Aminoglycoside	Kh_240	6.39496549958e-09	ABX determinants
+Tetracycline derivative	Kh_240	1.10883492489e-07	ABX determinants
+Nucleoside	Kh_240	0	ABX determinants
+Pleuromutilin	Kh_240	0	ABX determinants
+Diaminopyrimidine	Kh_240	1.61857706724e-08	ABX determinants
+Glycopeptide	Kh_240	0	ABX determinants
+Lincosamide	Kh_240	2.03442327141e-08	ABX determinants
+Streptogramin	Kh_240	1.98212868552e-08	ABX determinants
+Sulfonamide	Kh_240	2.68445944145e-11	ABX determinants
+Aminonucleoside	Kh_240	0	ABX determinants
+Aminocoumarin	Kh_240	1.64306216064e-08	ABX determinants
+Miscellaneous	Kh_240	5.74410404769e-10	ABX determinants
+Rifamycin	Kh_240	6.02459560364e-09	ABX determinants
+Lipopeptide	Kh_240	3.56537422009e-08	ABX determinants
+Fluoroquinolone	Kh_240	4.49332645699e-08	ABX determinants
+Oxazolidinone	Kh_240	0	ABX determinants
+Macrolide	Kh_240	4.07212418993e-08	ABX determinants
+Phenicol	Kh_240	1.04959805842e-08	ABX determinants
+Elfamycin	Kh_240	0	ABX determinants
+Beta-lactam	Kh_240	3.26308183194e-08	ABX determinants
+Peptide	Kh_240	8.92737699669e-09	ABX determinants
+Coumarin	Kh_240	6.67226564573e-09	ABX mutations
+Rifampin	Kh_240	1.01227642801e-09	ABX mutations
+Sulfonamides	Kh_240	6.34161079893e-10	ABX mutations
+Fluoroquinolones	Kh_240	8.75509920208e-09	ABX mutations
+Metals	SAR_263	1.14612058327e-09	Metals
+Biocides	SAR_263	6.59197501568e-10	Biocides
+Aminoglycoside	RND_301	4.20669876016e-09	ABX determinants
+Tetracycline derivative	RND_301	1.16679975708e-07	ABX determinants
+Nucleoside	RND_301	4.19315579827e-10	ABX determinants
+Pleuromutilin	RND_301	0	ABX determinants
+Diaminopyrimidine	RND_301	3.38585091925e-09	ABX determinants
+Glycopeptide	RND_301	6.53514370186e-10	ABX determinants
+Lincosamide	RND_301	2.46863359345e-08	ABX determinants
+Streptogramin	RND_301	2.24356976081e-08	ABX determinants
+Sulfonamide	RND_301	5.86906627946e-11	ABX determinants
+Aminonucleoside	RND_301	0	ABX determinants
+Aminocoumarin	RND_301	1.38894544024e-10	ABX determinants
+Miscellaneous	RND_301	0	ABX determinants
+Rifamycin	RND_301	6.56992152724e-11	ABX determinants
+Lipopeptide	RND_301	2.67182398075e-10	ABX determinants
+Fluoroquinolone	RND_301	3.63715183911e-10	ABX determinants
+Oxazolidinone	RND_301	0	ABX determinants
+Macrolide	RND_301	2.38195717687e-08	ABX determinants
+Phenicol	RND_301	5.43395620078e-09	ABX determinants
+Elfamycin	RND_301	0	ABX determinants
+Beta-lactam	RND_301	3.07859168198e-08	ABX determinants
+Peptide	RND_301	5.93927292377e-11	ABX determinants
+Coumarin	RND_301	4.40868078875e-09	ABX mutations
+Rifampin	RND_301	8.02197573336e-10	ABX mutations
+Sulfonamides	RND_301	1.41624993284e-09	ABX mutations
+Fluoroquinolones	RND_301	7.68523125144e-09	ABX mutations
+Aminoglycoside	SAR_275	1.08285077978e-09	ABX determinants
+Tetracycline derivative	SAR_275	6.69483449969e-08	ABX determinants
+Nucleoside	SAR_275	2.38256397322e-10	ABX determinants
+Pleuromutilin	SAR_275	0	ABX determinants
+Diaminopyrimidine	SAR_275	5.58513654699e-10	ABX determinants
+Glycopeptide	SAR_275	9.55386881431e-11	ABX determinants
+Lincosamide	SAR_275	7.65744078762e-09	ABX determinants
+Streptogramin	SAR_275	7.4438693231e-09	ABX determinants
+Sulfonamide	SAR_275	6.78146322475e-11	ABX determinants
+Aminonucleoside	SAR_275	0	ABX determinants
+Aminocoumarin	SAR_275	1.31978527239e-10	ABX determinants
+Miscellaneous	SAR_275	0	ABX determinants
+Rifamycin	SAR_275	9.9291316391e-11	ABX determinants
+Lipopeptide	SAR_275	2.1027840489e-10	ABX determinants
+Fluoroquinolone	SAR_275	4.91651594567e-10	ABX determinants
+Oxazolidinone	SAR_275	0	ABX determinants
+Macrolide	SAR_275	7.70338726035e-09	ABX determinants
+Phenicol	SAR_275	4.01560177415e-09	ABX determinants
+Elfamycin	SAR_275	0	ABX determinants
+Beta-lactam	SAR_275	1.59458769442e-09	ABX determinants
+Peptide	SAR_275	1.12200393978e-10	ABX determinants
+Coumarin	SAR_275	1.71247212032e-09	ABX mutations
+Rifampin	SAR_275	5.12014608286e-10	ABX mutations
+Sulfonamides	SAR_275	2.30842988701e-10	ABX mutations
+Fluoroquinolones	SAR_275	6.5760495273e-09	ABX mutations
+Metals	TAT_143	2.10693442815e-09	Metals
+Biocides	TAT_143	1.68184243393e-09	Biocides
+Aminoglycoside	Spb_69_9P	8.67519717705e-10	ABX determinants
+Tetracycline derivative	Spb_69_9P	7.1867938106e-08	ABX determinants
+Nucleoside	Spb_69_9P	3.44407075524e-10	ABX determinants
+Pleuromutilin	Spb_69_9P	0	ABX determinants
+Diaminopyrimidine	Spb_69_9P	4.53284151012e-09	ABX determinants
+Glycopeptide	Spb_69_9P	6.33747785886e-11	ABX determinants
+Lincosamide	Spb_69_9P	1.1845442945e-08	ABX determinants
+Streptogramin	Spb_69_9P	8.82154224418e-09	ABX determinants
+Sulfonamide	Spb_69_9P	9.17294732362e-11	ABX determinants
+Aminonucleoside	Spb_69_9P	0	ABX determinants
+Aminocoumarin	Spb_69_9P	4.90646345611e-10	ABX determinants
+Miscellaneous	Spb_69_9P	3.39108505131e-11	ABX determinants
+Rifamycin	Spb_69_9P	2.01459622672e-10	ABX determinants
+Lipopeptide	Spb_69_9P	5.2020722787e-10	ABX determinants
+Fluoroquinolone	Spb_69_9P	6.93064150667e-10	ABX determinants
+Oxazolidinone	Spb_69_9P	0	ABX determinants
+Macrolide	Spb_69_9P	9.282786603e-09	ABX determinants
+Phenicol	Spb_69_9P	1.76277169838e-09	ABX determinants
+Elfamycin	Spb_69_9P	0	ABX determinants
+Beta-lactam	Spb_69_9P	9.95563067094e-08	ABX determinants
+Peptide	Spb_69_9P	1.82121457191e-10	ABX determinants
+Coumarin	Spb_69_9P	6.38003889e-10	ABX mutations
+Rifampin	Spb_69_9P	7.72607985544e-10	ABX mutations
+Sulfonamides	Spb_69_9P	2.19624690643e-10	ABX mutations
+Fluoroquinolones	Spb_69_9P	2.20140872673e-08	ABX mutations
+Aminoglycoside	TAT_129	1.86788049962e-09	ABX determinants
+Tetracycline derivative	TAT_129	1.46547317848e-07	ABX determinants
+Nucleoside	TAT_129	1.13697862355e-09	ABX determinants
+Pleuromutilin	TAT_129	0	ABX determinants
+Diaminopyrimidine	TAT_129	3.08260578556e-08	ABX determinants
+Glycopeptide	TAT_129	1.15610536675e-11	ABX determinants
+Lincosamide	TAT_129	2.63509493259e-09	ABX determinants
+Streptogramin	TAT_129	2.57012749725e-09	ABX determinants
+Sulfonamide	TAT_129	9.08469578281e-11	ABX determinants
+Aminonucleoside	TAT_129	0	ABX determinants
+Aminocoumarin	TAT_129	2.46620731781e-11	ABX determinants
+Miscellaneous	TAT_129	0	ABX determinants
+Rifamycin	TAT_129	1.66267841724e-11	ABX determinants
+Lipopeptide	TAT_129	9.52652839866e-11	ABX determinants
+Fluoroquinolone	TAT_129	1.65436977453e-10	ABX determinants
+Oxazolidinone	TAT_129	0	ABX determinants
+Macrolide	TAT_129	2.6363391209e-09	ABX determinants
+Phenicol	TAT_129	4.50754302544e-09	ABX determinants
+Elfamycin	TAT_129	0	ABX determinants
+Beta-lactam	TAT_129	6.87107386038e-09	ABX determinants
+Peptide	TAT_129	3.00615490261e-11	ABX determinants
+Coumarin	TAT_129	4.3112085608e-09	ABX mutations
+Rifampin	TAT_129	5.30929123611e-10	ABX mutations
+Sulfonamides	TAT_129	2.08578646232e-10	ABX mutations
+Fluoroquinolones	TAT_129	1.16661480428e-08	ABX mutations
+Metals	Kh_250	2.01845685379e-09	Metals
+Biocides	Kh_250	1.07448884009e-09	Biocides
+Metals	OM_178	5.68603413269e-09	Metals
+Biocides	OM_178	2.97298220908e-09	Biocides
+Aminoglycoside	Spb_105_45P	5.50328475757e-09	ABX determinants
+Tetracycline derivative	Spb_105_45P	1.23954824537e-07	ABX determinants
+Nucleoside	Spb_105_45P	1.312511718e-09	ABX determinants
+Pleuromutilin	Spb_105_45P	0	ABX determinants
+Diaminopyrimidine	Spb_105_45P	3.17230884478e-09	ABX determinants
+Glycopeptide	Spb_105_45P	3.46993752138e-10	ABX determinants
+Lincosamide	Spb_105_45P	2.42791288559e-08	ABX determinants
+Streptogramin	Spb_105_45P	1.94339199653e-08	ABX determinants
+Sulfonamide	Spb_105_45P	0	ABX determinants
+Aminonucleoside	Spb_105_45P	0	ABX determinants
+Aminocoumarin	Spb_105_45P	4.89799732795e-09	ABX determinants
+Miscellaneous	Spb_105_45P	0	ABX determinants
+Rifamycin	Spb_105_45P	1.69811984568e-09	ABX determinants
+Lipopeptide	Spb_105_45P	1.15361558063e-08	ABX determinants
+Fluoroquinolone	Spb_105_45P	1.38700645815e-08	ABX determinants
+Oxazolidinone	Spb_105_45P	0	ABX determinants
+Macrolide	Spb_105_45P	2.51701524181e-08	ABX determinants
+Phenicol	Spb_105_45P	8.07027859715e-09	ABX determinants
+Elfamycin	Spb_105_45P	0	ABX determinants
+Beta-lactam	Spb_105_45P	2.86058729416e-08	ABX determinants
+Peptide	Spb_105_45P	1.83923877781e-09	ABX determinants
+Coumarin	Spb_105_45P	1.01289086025e-09	ABX mutations
+Rifampin	Spb_105_45P	1.71374919203e-09	ABX mutations
+Sulfonamides	Spb_105_45P	5.82335947909e-09	ABX mutations
+Fluoroquinolones	Spb_105_45P	1.36282813068e-08	ABX mutations
+Metals	OM_179	1.22426387487e-08	Metals
+Biocides	OM_179	7.42842192112e-09	Biocides
+Aminoglycoside	OM_182	2.48128023667e-08	ABX determinants
+Tetracycline derivative	OM_182	1.12100018803e-07	ABX determinants
+Nucleoside	OM_182	1.97277778054e-10	ABX determinants
+Pleuromutilin	OM_182	0	ABX determinants
+Diaminopyrimidine	OM_182	5.02594685805e-08	ABX determinants
+Glycopeptide	OM_182	0	ABX determinants
+Lincosamide	OM_182	1.20988762666e-08	ABX determinants
+Streptogramin	OM_182	1.22300105649e-08	ABX determinants
+Sulfonamide	OM_182	5.68964339903e-11	ABX determinants
+Aminonucleoside	OM_182	0	ABX determinants
+Aminocoumarin	OM_182	0	ABX determinants
+Miscellaneous	OM_182	0	ABX determinants
+Rifamycin	OM_182	0	ABX determinants
+Lipopeptide	OM_182	5.08423602778e-11	ABX determinants
+Fluoroquinolone	OM_182	7.303345177e-11	ABX determinants
+Oxazolidinone	OM_182	0	ABX determinants
+Macrolide	OM_182	1.46877054803e-08	ABX determinants
+Phenicol	OM_182	5.78748989615e-09	ABX determinants
+Elfamycin	OM_182	0	ABX determinants
+Beta-lactam	OM_182	5.71682295504e-08	ABX determinants
+Peptide	OM_182	1.86285560253e-11	ABX determinants
+Coumarin	OM_182	1.44226740216e-09	ABX mutations
+Rifampin	OM_182	4.43347602645e-10	ABX mutations
+Sulfonamides	OM_182	6.91604357779e-10	ABX mutations
+Fluoroquinolones	OM_182	9.13340165941e-09	ABX mutations
+Aminoglycoside	SAR_269	1.25729606136e-09	ABX determinants
+Tetracycline derivative	SAR_269	7.11826827829e-08	ABX determinants
+Nucleoside	SAR_269	2.77852330095e-10	ABX determinants
+Pleuromutilin	SAR_269	0	ABX determinants
+Diaminopyrimidine	SAR_269	3.38870051009e-10	ABX determinants
+Glycopeptide	SAR_269	2.31502487082e-10	ABX determinants
+Lincosamide	SAR_269	9.57328829875e-09	ABX determinants
+Streptogramin	SAR_269	9.32304225536e-09	ABX determinants
+Sulfonamide	SAR_269	3.05886892338e-10	ABX determinants
+Aminonucleoside	SAR_269	0	ABX determinants
+Aminocoumarin	SAR_269	6.13943866697e-11	ABX determinants
+Miscellaneous	SAR_269	0	ABX determinants
+Rifamycin	SAR_269	5.59833313262e-11	ABX determinants
+Lipopeptide	SAR_269	1.6510943643e-10	ABX determinants
+Fluoroquinolone	SAR_269	4.13797723513e-10	ABX determinants
+Oxazolidinone	SAR_269	0	ABX determinants
+Macrolide	SAR_269	9.47863842848e-09	ABX determinants
+Phenicol	SAR_269	3.87320675858e-09	ABX determinants
+Elfamycin	SAR_269	0	ABX determinants
+Beta-lactam	SAR_269	2.2480836777e-09	ABX determinants
+Peptide	SAR_269	8.09751611309e-11	ABX determinants
+Coumarin	SAR_269	1.911160422e-09	ABX mutations
+Rifampin	SAR_269	8.8803223293e-10	ABX mutations
+Sulfonamides	SAR_269	3.94911551026e-10	ABX mutations
+Fluoroquinolones	SAR_269	8.68185392497e-09	ABX mutations
+Aminoglycoside	TYV_216	1.47737970444e-09	ABX determinants
+Tetracycline derivative	TYV_216	7.32521463401e-08	ABX determinants
+Nucleoside	TYV_216	4.25932516206e-10	ABX determinants
+Pleuromutilin	TYV_216	0	ABX determinants
+Diaminopyrimidine	TYV_216	6.22869055957e-09	ABX determinants
+Glycopeptide	TYV_216	1.15776930826e-10	ABX determinants
+Lincosamide	TYV_216	1.55519118046e-08	ABX determinants
+Streptogramin	TYV_216	1.54093973802e-08	ABX determinants
+Sulfonamide	TYV_216	0	ABX determinants
+Aminonucleoside	TYV_216	0	ABX determinants
+Aminocoumarin	TYV_216	6.23245687528e-10	ABX determinants
+Miscellaneous	TYV_216	0	ABX determinants
+Rifamycin	TYV_216	3.63340282642e-10	ABX determinants
+Lipopeptide	TYV_216	1.14512812754e-09	ABX determinants
+Fluoroquinolone	TYV_216	2.2625927191e-09	ABX determinants
+Oxazolidinone	TYV_216	0	ABX determinants
+Macrolide	TYV_216	1.6410073913e-08	ABX determinants
+Phenicol	TYV_216	1.71951664437e-09	ABX determinants
+Elfamycin	TYV_216	0	ABX determinants
+Beta-lactam	TYV_216	3.79722726039e-08	ABX determinants
+Peptide	TYV_216	3.12822045114e-10	ABX determinants
+Coumarin	TYV_216	1.53738459801e-09	ABX mutations
+Rifampin	TYV_216	6.38060053435e-10	ABX mutations
+Sulfonamides	TYV_216	2.61705938458e-09	ABX mutations
+Fluoroquinolones	TYV_216	4.19241530788e-09	ABX mutations
+Metals	NOV_287	2.19673043214e-09	Metals
+Biocides	NOV_287	1.44456564476e-09	Biocides
+Metals	Spb_69_9P	2.83444866109e-09	Metals
+Biocides	Spb_69_9P	2.06906161975e-09	Biocides
+Metals	Spb_105_45P	3.97138631055e-08	Metals
+Biocides	Spb_105_45P	2.37927636122e-08	Biocides
+Aminoglycoside	Kh_242	2.05400743695e-09	ABX determinants
+Tetracycline derivative	Kh_242	8.95894426428e-08	ABX determinants
+Nucleoside	Kh_242	6.58129858435e-10	ABX determinants
+Pleuromutilin	Kh_242	0	ABX determinants
+Diaminopyrimidine	Kh_242	3.71221634435e-09	ABX determinants
+Glycopeptide	Kh_242	6.11795357123e-11	ABX determinants
+Lincosamide	Kh_242	1.12957750179e-09	ABX determinants
+Streptogramin	Kh_242	8.24551017496e-10	ABX determinants
+Sulfonamide	Kh_242	0	ABX determinants
+Aminonucleoside	Kh_242	0	ABX determinants
+Aminocoumarin	Kh_242	2.34710887277e-10	ABX determinants
+Miscellaneous	Kh_242	6.08882045899e-11	ABX determinants
+Rifamycin	Kh_242	1.19364290897e-10	ABX determinants
+Lipopeptide	Kh_242	7.21712503876e-10	ABX determinants
+Fluoroquinolone	Kh_242	1.06606553488e-09	ABX determinants
+Oxazolidinone	Kh_242	0	ABX determinants
+Macrolide	Kh_242	1.24503621363e-09	ABX determinants
+Phenicol	Kh_242	1.78478830544e-08	ABX determinants
+Elfamycin	Kh_242	0	ABX determinants
+Beta-lactam	Kh_242	2.71596347052e-09	ABX determinants
+Peptide	Kh_242	1.55364799075e-10	ABX determinants
+Coumarin	Kh_242	3.57410585308e-09	ABX mutations
+Rifampin	Kh_242	1.06104318227e-09	ABX mutations
+Sulfonamides	Kh_242	0.0	ABX mutations
+Fluoroquinolones	Kh_242	2.02657731404e-08	ABX mutations
+Aminoglycoside	NOV_287	1.37366824366e-09	ABX determinants
+Tetracycline derivative	NOV_287	8.335966785e-08	ABX determinants
+Nucleoside	NOV_287	4.20616282347e-10	ABX determinants
+Pleuromutilin	NOV_287	0	ABX determinants
+Diaminopyrimidine	NOV_287	2.8616181551e-09	ABX determinants
+Glycopeptide	NOV_287	4.84717679644e-10	ABX determinants
+Lincosamide	NOV_287	9.24503944071e-08	ABX determinants
+Streptogramin	NOV_287	9.19508617998e-08	ABX determinants
+Sulfonamide	NOV_287	0	ABX determinants
+Aminonucleoside	NOV_287	0	ABX determinants
+Aminocoumarin	NOV_287	3.08938640755e-10	ABX determinants
+Miscellaneous	NOV_287	0	ABX determinants
+Rifamycin	NOV_287	5.12578982071e-11	ABX determinants
+Lipopeptide	NOV_287	6.4371753375e-10	ABX determinants
+Fluoroquinolone	NOV_287	7.37410726922e-10	ABX determinants
+Oxazolidinone	NOV_287	0	ABX determinants
+Macrolide	NOV_287	9.24366156255e-08	ABX determinants
+Phenicol	NOV_287	2.96644771795e-09	ABX determinants
+Elfamycin	NOV_287	0	ABX determinants
+Beta-lactam	NOV_287	2.64598614268e-08	ABX determinants
+Peptide	NOV_287	9.26752764668e-11	ABX determinants
+Coumarin	NOV_287	1.31810756719e-09	ABX mutations
+Rifampin	NOV_287	3.78607685035e-10	ABX mutations
+Sulfonamides	NOV_287	0.0	ABX mutations
+Fluoroquinolones	NOV_287	6.45542913176e-09	ABX mutations
+Aminoglycoside	NOV_282	1.99933841305e-09	ABX determinants
+Tetracycline derivative	NOV_282	8.45788021187e-08	ABX determinants
+Nucleoside	NOV_282	1.94308596137e-10	ABX determinants
+Pleuromutilin	NOV_282	0	ABX determinants
+Diaminopyrimidine	NOV_282	1.31046656245e-09	ABX determinants
+Glycopeptide	NOV_282	1.41126670626e-11	ABX determinants
+Lincosamide	NOV_282	1.83044360238e-08	ABX determinants
+Streptogramin	NOV_282	1.78642676815e-08	ABX determinants
+Sulfonamide	NOV_282	0	ABX determinants
+Aminonucleoside	NOV_282	0	ABX determinants
+Aminocoumarin	NOV_282	8.55344220915e-10	ABX determinants
+Miscellaneous	NOV_282	0	ABX determinants
+Rifamycin	NOV_282	3.59984628602e-10	ABX determinants
+Lipopeptide	NOV_282	2.3334292355e-09	ABX determinants
+Fluoroquinolone	NOV_282	4.736070761e-09	ABX determinants
+Oxazolidinone	NOV_282	0	ABX determinants
+Macrolide	NOV_282	1.94034643788e-08	ABX determinants
+Phenicol	NOV_282	1.68569375132e-08	ABX determinants
+Elfamycin	NOV_282	0	ABX determinants
+Beta-lactam	NOV_282	3.57060497717e-09	ABX determinants
+Peptide	NOV_282	6.97230914658e-10	ABX determinants
+Coumarin	NOV_282	4.04682208427e-09	ABX mutations
+Rifampin	NOV_282	7.9571335447e-10	ABX mutations
+Sulfonamides	NOV_282	1.56695071562e-09	ABX mutations
+Fluoroquinolones	NOV_282	1.32530866256e-08	ABX mutations
+Aminoglycoside	TYV_208	3.55893830707e-09	ABX determinants
+Tetracycline derivative	TYV_208	7.96872472184e-08	ABX determinants
+Nucleoside	TYV_208	5.48349369913e-10	ABX determinants
+Pleuromutilin	TYV_208	0	ABX determinants
+Diaminopyrimidine	TYV_208	9.32193928852e-09	ABX determinants
+Glycopeptide	TYV_208	8.57733041447e-10	ABX determinants
+Lincosamide	TYV_208	3.50318737956e-08	ABX determinants
+Streptogramin	TYV_208	3.50367188258e-08	ABX determinants
+Sulfonamide	TYV_208	0	ABX determinants
+Aminonucleoside	TYV_208	0	ABX determinants
+Aminocoumarin	TYV_208	1.6705984388e-11	ABX determinants
+Miscellaneous	TYV_208	0	ABX determinants
+Rifamycin	TYV_208	1.6705984388e-11	ABX determinants
+Lipopeptide	TYV_208	1.58448642169e-10	ABX determinants
+Fluoroquinolone	TYV_208	1.49731309803e-10	ABX determinants
+Oxazolidinone	TYV_208	0	ABX determinants
+Macrolide	TYV_208	3.53584291061e-08	ABX determinants
+Phenicol	TYV_208	3.8389183873e-09	ABX determinants
+Elfamycin	TYV_208	0	ABX determinants
+Beta-lactam	TYV_208	1.22568683333e-08	ABX determinants
+Peptide	TYV_208	3.02047445558e-11	ABX determinants
+Coumarin	TYV_208	5.1218643016e-10	ABX mutations
+Rifampin	TYV_208	7.32109968477e-10	ABX mutations
+Sulfonamides	TYV_208	5.44120090759e-10	ABX mutations
+Fluoroquinolones	TYV_208	4.4706027305e-09	ABX mutations
+Metals	SAR_270	2.47751755673e-09	Metals
+Biocides	SAR_270	1.85444555202e-09	Biocides
+Aminoglycoside	RND_305	3.42705330255e-10	ABX determinants
+Tetracycline derivative	RND_305	6.99838006302e-08	ABX determinants
+Nucleoside	RND_305	5.93448449141e-11	ABX determinants
+Pleuromutilin	RND_305	0	ABX determinants
+Diaminopyrimidine	RND_305	3.64492208762e-09	ABX determinants
+Glycopeptide	RND_305	1.18120090505e-10	ABX determinants
+Lincosamide	RND_305	1.16242928573e-07	ABX determinants
+Streptogramin	RND_305	2.04295852224e-07	ABX determinants
+Sulfonamide	RND_305	0	ABX determinants
+Aminonucleoside	RND_305	0	ABX determinants
+Aminocoumarin	RND_305	0	ABX determinants
+Miscellaneous	RND_305	0	ABX determinants
+Rifamycin	RND_305	0	ABX determinants
+Lipopeptide	RND_305	0	ABX determinants
+Fluoroquinolone	RND_305	0	ABX determinants
+Oxazolidinone	RND_305	0	ABX determinants
+Macrolide	RND_305	2.32474478765e-07	ABX determinants
+Phenicol	RND_305	4.96796888712e-09	ABX determinants
+Elfamycin	RND_305	0	ABX determinants
+Beta-lactam	RND_305	8.56635093718e-08	ABX determinants
+Peptide	RND_305	0	ABX determinants
+Coumarin	RND_305	2.14022005341e-09	ABX mutations
+Rifampin	RND_305	1.43090709946e-09	ABX mutations
+Sulfonamides	RND_305	0.0	ABX mutations
+Fluoroquinolones	RND_305	1.01360666476e-08	ABX mutations
+Aminoglycoside	OMS_251	2.22019610485e-08	ABX determinants
+Tetracycline derivative	OMS_251	1.16222193376e-07	ABX determinants
+Nucleoside	OMS_251	5.54423221967e-09	ABX determinants
+Pleuromutilin	OMS_251	0	ABX determinants
+Diaminopyrimidine	OMS_251	7.39316477982e-09	ABX determinants
+Glycopeptide	OMS_251	4.53417557532e-10	ABX determinants
+Lincosamide	OMS_251	4.43956703388e-08	ABX determinants
+Streptogramin	OMS_251	4.85172176796e-08	ABX determinants
+Sulfonamide	OMS_251	0	ABX determinants
+Aminonucleoside	OMS_251	0	ABX determinants
+Aminocoumarin	OMS_251	2.65128028721e-09	ABX determinants
+Miscellaneous	OMS_251	6.68009374862e-11	ABX determinants
+Rifamycin	OMS_251	1.01165894905e-09	ABX determinants
+Lipopeptide	OMS_251	6.02438254221e-09	ABX determinants
+Fluoroquinolone	OMS_251	8.75201266481e-09	ABX determinants
+Oxazolidinone	OMS_251	0	ABX determinants
+Macrolide	OMS_251	5.20858622798e-08	ABX determinants
+Phenicol	OMS_251	4.58963485811e-09	ABX determinants
+Elfamycin	OMS_251	0	ABX determinants
+Beta-lactam	OMS_251	2.95847979911e-08	ABX determinants
+Peptide	OMS_251	1.27838975141e-09	ABX determinants
+Coumarin	OMS_251	1.11168621021e-09	ABX mutations
+Rifampin	OMS_251	1.06943474672e-09	ABX mutations
+Sulfonamides	OMS_251	3.66525961472e-10	ABX mutations
+Fluoroquinolones	OMS_251	1.19811431603e-08	ABX mutations
+Metals	Spb_66_6P	2.33450190631e-09	Metals
+Biocides	Spb_66_6P	6.76996709509e-10	Biocides
+Metals	TAT_131	3.52805598569e-09	Metals
+Biocides	TAT_131	1.84631320442e-09	Biocides
+Metals	Kh_236	8.34639837785e-09	Metals
+Biocides	Kh_236	5.20623138712e-09	Biocides
+Metals	OM_184	1.60650710647e-09	Metals
+Biocides	OM_184	8.50733818154e-10	Biocides
+Aminoglycoside	NOV_284	2.91336278887e-09	ABX determinants
+Tetracycline derivative	NOV_284	1.09371641882e-07	ABX determinants
+Nucleoside	NOV_284	5.04847688495e-10	ABX determinants
+Pleuromutilin	NOV_284	0	ABX determinants
+Diaminopyrimidine	NOV_284	3.52357037718e-10	ABX determinants
+Glycopeptide	NOV_284	1.40305971796e-09	ABX determinants
+Lincosamide	NOV_284	1.74181793634e-08	ABX determinants
+Streptogramin	NOV_284	1.7788482248e-08	ABX determinants
+Sulfonamide	NOV_284	0	ABX determinants
+Aminonucleoside	NOV_284	0	ABX determinants
+Aminocoumarin	NOV_284	2.22936881262e-09	ABX determinants
+Miscellaneous	NOV_284	0	ABX determinants
+Rifamycin	NOV_284	9.39618767248e-10	ABX determinants
+Lipopeptide	NOV_284	6.99848199463e-09	ABX determinants
+Fluoroquinolone	NOV_284	9.01050330797e-09	ABX determinants
+Oxazolidinone	NOV_284	0	ABX determinants
+Macrolide	NOV_284	2.13274724124e-08	ABX determinants
+Phenicol	NOV_284	3.33834132242e-09	ABX determinants
+Elfamycin	NOV_284	0	ABX determinants
+Beta-lactam	NOV_284	1.16522001835e-08	ABX determinants
+Peptide	NOV_284	1.39548310581e-09	ABX determinants
+Coumarin	NOV_284	5.2708824212e-09	ABX mutations
+Rifampin	NOV_284	5.58609265126e-10	ABX mutations
+Sulfonamides	NOV_284	0.0	ABX mutations
+Fluoroquinolones	NOV_284	7.79722496878e-09	ABX mutations
+Metals	SAR_273	4.320691665e-10	Metals
+Biocides	SAR_273	1.37202732612e-10	Biocides
+Aminoglycoside	OM_185	6.66047151929e-09	ABX determinants
+Tetracycline derivative	OM_185	6.1975771107e-08	ABX determinants
+Nucleoside	OM_185	2.36268218841e-10	ABX determinants
+Pleuromutilin	OM_185	0	ABX determinants
+Diaminopyrimidine	OM_185	3.33170852375e-09	ABX determinants
+Glycopeptide	OM_185	0	ABX determinants
+Lincosamide	OM_185	1.10775111515e-08	ABX determinants
+Streptogramin	OM_185	1.0930148873e-08	ABX determinants
+Sulfonamide	OM_185	0	ABX determinants
+Aminonucleoside	OM_185	0	ABX determinants
+Aminocoumarin	OM_185	1.38563227821e-08	ABX determinants
+Miscellaneous	OM_185	0	ABX determinants
+Rifamycin	OM_185	5.02224210802e-09	ABX determinants
+Lipopeptide	OM_185	2.90576628666e-08	ABX determinants
+Fluoroquinolone	OM_185	4.27823680206e-08	ABX determinants
+Oxazolidinone	OM_185	0	ABX determinants
+Macrolide	OM_185	2.68510227522e-08	ABX determinants
+Phenicol	OM_185	5.84131664349e-09	ABX determinants
+Elfamycin	OM_185	0	ABX determinants
+Beta-lactam	OM_185	3.54678098822e-08	ABX determinants
+Peptide	OM_185	7.45165601293e-09	ABX determinants
+Coumarin	OM_185	9.0161206859e-10	ABX mutations
+Rifampin	OM_185	8.13591701838e-10	ABX mutations
+Sulfonamides	OM_185	0.0	ABX mutations
+Fluoroquinolones	OM_185	3.14893682417e-09	ABX mutations
+Metals	Kh_240	1.29576941369e-07	Metals
+Biocides	Kh_240	6.57034861495e-08	Biocides
+Metals	NOV_281	2.54141910693e-09	Metals
+Biocides	NOV_281	1.41077062215e-09	Biocides
+Aminoglycoside	NOV_283	2.18702887856e-08	ABX determinants
+Tetracycline derivative	NOV_283	1.31270153227e-07	ABX determinants
+Nucleoside	NOV_283	9.82670992732e-10	ABX determinants
+Pleuromutilin	NOV_283	0	ABX determinants
+Diaminopyrimidine	NOV_283	1.14191181649e-09	ABX determinants
+Glycopeptide	NOV_283	2.83359831199e-10	ABX determinants
+Lincosamide	NOV_283	1.86936412028e-08	ABX determinants
+Streptogramin	NOV_283	1.72146020124e-08	ABX determinants
+Sulfonamide	NOV_283	0	ABX determinants
+Aminonucleoside	NOV_283	0	ABX determinants
+Aminocoumarin	NOV_283	5.58912812184e-08	ABX determinants
+Miscellaneous	NOV_283	0	ABX determinants
+Rifamycin	NOV_283	2.35305347313e-08	ABX determinants
+Lipopeptide	NOV_283	1.46418152274e-07	ABX determinants
+Fluoroquinolone	NOV_283	1.69896922898e-07	ABX determinants
+Oxazolidinone	NOV_283	0	ABX determinants
+Macrolide	NOV_283	8.81123420644e-08	ABX determinants
+Phenicol	NOV_283	2.70150516441e-08	ABX determinants
+Elfamycin	NOV_283	0	ABX determinants
+Beta-lactam	NOV_283	1.18554618256e-07	ABX determinants
+Peptide	NOV_283	2.99511007586e-08	ABX determinants
+Coumarin	NOV_283	1.05025715635e-09	ABX mutations
+Rifampin	NOV_283	4.0404883822e-10	ABX mutations
+Sulfonamides	NOV_283	0.0	ABX mutations
+Fluoroquinolones	NOV_283	5.03517938583e-09	ABX mutations
+Aminoglycoside	SAR_263	2.50140297353e-11	ABX determinants
+Tetracycline derivative	SAR_263	6.52208019536e-08	ABX determinants
+Nucleoside	SAR_263	0	ABX determinants
+Pleuromutilin	SAR_263	0	ABX determinants
+Diaminopyrimidine	SAR_263	7.85470792596e-10	ABX determinants
+Glycopeptide	SAR_263	2.65029600767e-11	ABX determinants
+Lincosamide	SAR_263	1.0584155214e-08	ABX determinants
+Streptogramin	SAR_263	1.05108941257e-08	ABX determinants
+Sulfonamide	SAR_263	0	ABX determinants
+Aminonucleoside	SAR_263	0	ABX determinants
+Aminocoumarin	SAR_263	0	ABX determinants
+Miscellaneous	SAR_263	0	ABX determinants
+Rifamycin	SAR_263	0	ABX determinants
+Lipopeptide	SAR_263	3.94823431425e-11	ABX determinants
+Fluoroquinolone	SAR_263	5.42919790195e-11	ABX determinants
+Oxazolidinone	SAR_263	0	ABX determinants
+Macrolide	SAR_263	1.05553612319e-08	ABX determinants
+Phenicol	SAR_263	1.21077186039e-09	ABX determinants
+Elfamycin	SAR_263	0	ABX determinants
+Beta-lactam	SAR_263	2.09024822844e-08	ABX determinants
+Peptide	SAR_263	2.36691077234e-11	ABX determinants
+Coumarin	SAR_263	9.66595856583e-10	ABX mutations
+Rifampin	SAR_263	2.06999050705e-09	ABX mutations
+Sulfonamides	SAR_263	0.0	ABX mutations
+Fluoroquinolones	SAR_263	1.11842148388e-08	ABX mutations
+Metals	Kh_249	5.68093440034e-09	Metals
+Biocides	Kh_249	3.48582348296e-09	Biocides
+Metals	TYV_212	1.57997375877e-09	Metals
+Biocides	TYV_212	8.44723042248e-10	Biocides
+Metals	TYV_203	1.62839946301e-09	Metals
+Biocides	TYV_203	1.33685235226e-09	Biocides
+Metals	SAR_266	2.0634013361e-09	Metals
+Biocides	SAR_266	1.29862288951e-09	Biocides
+Metals	SAR_269	1.8390808989e-09	Metals
+Biocides	SAR_269	5.78967439355e-10	Biocides
+Metals	OM_190	7.88052675951e-10	Metals
+Biocides	OM_190	4.56538509079e-10	Biocides
+Aminoglycoside	RND_311	1.67811500836e-09	ABX determinants
+Tetracycline derivative	RND_311	1.34347957868e-07	ABX determinants
+Nucleoside	RND_311	1.4868262213e-10	ABX determinants
+Pleuromutilin	RND_311	0	ABX determinants
+Diaminopyrimidine	RND_311	5.58519075709e-09	ABX determinants
+Glycopeptide	RND_311	4.25979015447e-11	ABX determinants
+Lincosamide	RND_311	8.4456516106e-08	ABX determinants
+Streptogramin	RND_311	8.31933018226e-08	ABX determinants
+Sulfonamide	RND_311	7.4250318028e-11	ABX determinants
+Aminonucleoside	RND_311	0	ABX determinants
+Aminocoumarin	RND_311	1.03298082551e-09	ABX determinants
+Miscellaneous	RND_311	0	ABX determinants
+Rifamycin	RND_311	5.29981604687e-10	ABX determinants
+Lipopeptide	RND_311	2.25127849751e-09	ABX determinants
+Fluoroquinolone	RND_311	4.8533793051e-09	ABX determinants
+Oxazolidinone	RND_311	0	ABX determinants
+Macrolide	RND_311	8.52263522455e-08	ABX determinants
+Phenicol	RND_311	3.09595101965e-09	ABX determinants
+Elfamycin	RND_311	0	ABX determinants
+Beta-lactam	RND_311	8.17004993131e-08	ABX determinants
+Peptide	RND_311	9.82786712496e-10	ABX determinants
+Coumarin	RND_311	9.30100719045e-10	ABX mutations
+Rifampin	RND_311	1.13790755828e-09	ABX mutations
+Sulfonamides	RND_311	1.34139167229e-09	ABX mutations
+Fluoroquinolones	RND_311	1.03180723393e-08	ABX mutations
+Metals	TYV_216	5.54228279467e-09	Metals
+Biocides	TYV_216	3.61654366787e-09	Biocides
+Aminoglycoside	TYV_207	6.3901892404e-10	ABX determinants
+Tetracycline derivative	TYV_207	1.1577228593e-07	ABX determinants
+Nucleoside	TYV_207	4.86847424999e-11	ABX determinants
+Pleuromutilin	TYV_207	0	ABX determinants
+Diaminopyrimidine	TYV_207	1.01452721468e-09	ABX determinants
+Glycopeptide	TYV_207	7.52781078438e-10	ABX determinants
+Lincosamide	TYV_207	2.12445881389e-09	ABX determinants
+Streptogramin	TYV_207	2.12445881389e-09	ABX determinants
+Sulfonamide	TYV_207	0	ABX determinants
+Aminonucleoside	TYV_207	0	ABX determinants
+Aminocoumarin	TYV_207	1.08759551203e-10	ABX determinants
+Miscellaneous	TYV_207	0	ABX determinants
+Rifamycin	TYV_207	5.33961691934e-11	ABX determinants
+Lipopeptide	TYV_207	2.56977045167e-10	ABX determinants
+Fluoroquinolone	TYV_207	3.35934362084e-10	ABX determinants
+Oxazolidinone	TYV_207	0	ABX determinants
+Macrolide	TYV_207	2.27344604583e-09	ABX determinants
+Phenicol	TYV_207	7.70454293703e-09	ABX determinants
+Elfamycin	TYV_207	0	ABX determinants
+Beta-lactam	TYV_207	5.00018069978e-09	ABX determinants
+Peptide	TYV_207	6.43608746536e-11	ABX determinants
+Coumarin	TYV_207	4.61535036626e-10	ABX mutations
+Rifampin	TYV_207	3.46097741625e-10	ABX mutations
+Sulfonamides	TYV_207	0.0	ABX mutations
+Fluoroquinolones	TYV_207	2.63361030439e-09	ABX mutations
+Aminoglycoside	Kh_245	3.68948873929e-10	ABX determinants
+Tetracycline derivative	Kh_245	6.35768691903e-08	ABX determinants
+Nucleoside	Kh_245	9.9338658469e-11	ABX determinants
+Pleuromutilin	Kh_245	0	ABX determinants
+Diaminopyrimidine	Kh_245	4.20587062067e-10	ABX determinants
+Glycopeptide	Kh_245	0	ABX determinants
+Lincosamide	Kh_245	3.20864817659e-08	ABX determinants
+Streptogramin	Kh_245	3.1978634279e-08	ABX determinants
+Sulfonamide	Kh_245	0	ABX determinants
+Aminonucleoside	Kh_245	0	ABX determinants
+Aminocoumarin	Kh_245	6.46009809154e-10	ABX determinants
+Miscellaneous	Kh_245	0	ABX determinants
+Rifamycin	Kh_245	2.10293531033e-10	ABX determinants
+Lipopeptide	Kh_245	1.42091689742e-09	ABX determinants
+Fluoroquinolone	Kh_245	1.67985616427e-09	ABX determinants
+Oxazolidinone	Kh_245	0	ABX determinants
+Macrolide	Kh_245	3.2741850826e-08	ABX determinants
+Phenicol	Kh_245	1.04411358381e-09	ABX determinants
+Elfamycin	Kh_245	0	ABX determinants
+Beta-lactam	Kh_245	8.75808467058e-08	ABX determinants
+Peptide	Kh_245	2.95545960059e-10	ABX determinants
+Coumarin	Kh_245	3.15875272692e-10	ABX mutations
+Rifampin	Kh_245	7.39942767632e-10	ABX mutations
+Sulfonamides	Kh_245	0.0	ABX mutations
+Fluoroquinolones	Kh_245	4.50432084151e-09	ABX mutations
+Metals	RND_311	1.39638131842e-08	Metals
+Biocides	RND_311	1.10170912531e-08	Biocides
+Aminoglycoside	SAR_276	2.96098093471e-10	ABX determinants
+Tetracycline derivative	SAR_276	7.11696118677e-08	ABX determinants
+Nucleoside	SAR_276	0	ABX determinants
+Pleuromutilin	SAR_276	0	ABX determinants
+Diaminopyrimidine	SAR_276	1.59652882124e-09	ABX determinants
+Glycopeptide	SAR_276	0	ABX determinants
+Lincosamide	SAR_276	1.29795194959e-08	ABX determinants
+Streptogramin	SAR_276	1.16026269741e-08	ABX determinants
+Sulfonamide	SAR_276	2.36402751093e-11	ABX determinants
+Aminonucleoside	SAR_276	0	ABX determinants
+Aminocoumarin	SAR_276	6.18249192199e-12	ABX determinants
+Miscellaneous	SAR_276	0	ABX determinants
+Rifamycin	SAR_276	0	ABX determinants
+Lipopeptide	SAR_276	1.94698636737e-11	ABX determinants
+Fluoroquinolone	SAR_276	3.66985135842e-11	ABX determinants
+Oxazolidinone	SAR_276	0	ABX determinants
+Macrolide	SAR_276	1.16246715492e-08	ABX determinants
+Phenicol	SAR_276	3.49578553185e-08	ABX determinants
+Elfamycin	SAR_276	0	ABX determinants
+Beta-lactam	SAR_276	3.52389075048e-08	ABX determinants
+Peptide	SAR_276	2.34679280247e-11	ABX determinants
+Coumarin	SAR_276	1.38181448622e-09	ABX mutations
+Rifampin	SAR_276	1.97507014216e-09	ABX mutations
+Sulfonamides	SAR_276	0.0	ABX mutations
+Fluoroquinolones	SAR_276	8.55039413741e-09	ABX mutations
+Aminoglycoside	Spb_101_41P	1.0392395394e-09	ABX determinants
+Tetracycline derivative	Spb_101_41P	9.89366008479e-08	ABX determinants
+Nucleoside	Spb_101_41P	0	ABX determinants
+Pleuromutilin	Spb_101_41P	0	ABX determinants
+Diaminopyrimidine	Spb_101_41P	2.18616611803e-09	ABX determinants
+Glycopeptide	Spb_101_41P	2.43440115881e-10	ABX determinants
+Lincosamide	Spb_101_41P	6.63997614381e-09	ABX determinants
+Streptogramin	Spb_101_41P	4.97096081792e-09	ABX determinants
+Sulfonamide	Spb_101_41P	0	ABX determinants
+Aminonucleoside	Spb_101_41P	0	ABX determinants
+Aminocoumarin	Spb_101_41P	1.3624096298e-10	ABX determinants
+Miscellaneous	Spb_101_41P	0	ABX determinants
+Rifamycin	Spb_101_41P	6.94020989851e-11	ABX determinants
+Lipopeptide	Spb_101_41P	4.70051681058e-10	ABX determinants
+Fluoroquinolone	Spb_101_41P	4.1174150524e-10	ABX determinants
+Oxazolidinone	Spb_101_41P	0	ABX determinants
+Macrolide	Spb_101_41P	5.17700190452e-09	ABX determinants
+Phenicol	Spb_101_41P	2.63461044993e-09	ABX determinants
+Elfamycin	Spb_101_41P	0	ABX determinants
+Beta-lactam	Spb_101_41P	5.39316722395e-08	ABX determinants
+Peptide	Spb_101_41P	0	ABX determinants
+Coumarin	Spb_101_41P	4.1302079196e-09	ABX mutations
+Rifampin	Spb_101_41P	4.12031996797e-10	ABX mutations
+Sulfonamides	Spb_101_41P	0.0	ABX mutations
+Fluoroquinolones	Spb_101_41P	6.22757586562e-09	ABX mutations
+Metals	TYV_206	4.98549652883e-10	Metals
+Biocides	TYV_206	5.52613721022e-10	Biocides
+Metals	TYV_204	1.12694670991e-09	Metals
+Biocides	TYV_204	1.55190577184e-10	Biocides
+Metals	Kh_247	5.85281317081e-10	Metals
+Biocides	Kh_247	4.36756636855e-10	Biocides
+Aminoglycoside	Kh_249	3.72623469009e-10	ABX determinants
+Tetracycline derivative	Kh_249	4.57478458023e-08	ABX determinants
+Nucleoside	Kh_249	0	ABX determinants
+Pleuromutilin	Kh_249	0	ABX determinants
+Diaminopyrimidine	Kh_249	1.46164940658e-09	ABX determinants
+Glycopeptide	Kh_249	8.46937039324e-12	ABX determinants
+Lincosamide	Kh_249	1.917395749e-09	ABX determinants
+Streptogramin	Kh_249	1.93727788054e-09	ABX determinants
+Sulfonamide	Kh_249	6.85666556426e-11	ABX determinants
+Aminonucleoside	Kh_249	0	ABX determinants
+Aminocoumarin	Kh_249	5.10842626112e-10	ABX determinants
+Miscellaneous	Kh_249	0	ABX determinants
+Rifamycin	Kh_249	2.5916911284e-10	ABX determinants
+Lipopeptide	Kh_249	1.16907378614e-09	ABX determinants
+Fluoroquinolone	Kh_249	1.68366187686e-09	ABX determinants
+Oxazolidinone	Kh_249	0	ABX determinants
+Macrolide	Kh_249	2.72573571549e-09	ABX determinants
+Phenicol	Kh_249	9.5318006173e-10	ABX determinants
+Elfamycin	Kh_249	0	ABX determinants
+Beta-lactam	Kh_249	1.92190756835e-08	ABX determinants
+Peptide	Kh_249	2.20224211926e-10	ABX determinants
+Coumarin	Kh_249	1.17694995512e-09	ABX mutations
+Rifampin	Kh_249	3.20039724282e-09	ABX mutations
+Sulfonamides	Kh_249	2.62062596156e-09	ABX mutations
+Fluoroquinolones	Kh_249	2.07249364464e-08	ABX mutations
+Metals	NOV_284	1.67847593749e-08	Metals
+Biocides	NOV_284	9.63491651569e-09	Biocides
+Metals	NOV_286	7.58832044943e-09	Metals
+Biocides	NOV_286	4.56545827085e-09	Biocides
+Aminoglycoside	SAR_264	2.19260700585e-09	ABX determinants
+Tetracycline derivative	SAR_264	6.95495883614e-08	ABX determinants
+Nucleoside	SAR_264	1.49556399448e-10	ABX determinants
+Pleuromutilin	SAR_264	0	ABX determinants
+Diaminopyrimidine	SAR_264	1.0388541295e-09	ABX determinants
+Glycopeptide	SAR_264	1.85895434115e-10	ABX determinants
+Lincosamide	SAR_264	7.49113682443e-09	ABX determinants
+Streptogramin	SAR_264	6.50788090961e-09	ABX determinants
+Sulfonamide	SAR_264	1.65970382088e-10	ABX determinants
+Aminonucleoside	SAR_264	0	ABX determinants
+Aminocoumarin	SAR_264	4.14589097157e-10	ABX determinants
+Miscellaneous	SAR_264	0	ABX determinants
+Rifamycin	SAR_264	2.18706132525e-10	ABX determinants
+Lipopeptide	SAR_264	1.16292572409e-09	ABX determinants
+Fluoroquinolone	SAR_264	1.70979288953e-09	ABX determinants
+Oxazolidinone	SAR_264	0	ABX determinants
+Macrolide	SAR_264	7.20089424358e-09	ABX determinants
+Phenicol	SAR_264	3.92267083244e-09	ABX determinants
+Elfamycin	SAR_264	0	ABX determinants
+Beta-lactam	SAR_264	5.25790581803e-09	ABX determinants
+Peptide	SAR_264	3.29520782906e-10	ABX determinants
+Coumarin	SAR_264	9.95529872383e-09	ABX mutations
+Rifampin	SAR_264	1.67812239457e-09	ABX mutations
+Sulfonamides	SAR_264	1.39647134905e-09	ABX mutations
+Fluoroquinolones	SAR_264	7.13142074423e-09	ABX mutations
+Aminoglycoside	Spb_106_46P	1.37928867599e-08	ABX determinants
+Tetracycline derivative	Spb_106_46P	1.79172791855e-07	ABX determinants
+Nucleoside	Spb_106_46P	2.08554398612e-09	ABX determinants
+Pleuromutilin	Spb_106_46P	0	ABX determinants
+Diaminopyrimidine	Spb_106_46P	3.71742568674e-09	ABX determinants
+Glycopeptide	Spb_106_46P	7.15855468117e-11	ABX determinants
+Lincosamide	Spb_106_46P	2.73289634882e-08	ABX determinants
+Streptogramin	Spb_106_46P	2.63368491019e-08	ABX determinants
+Sulfonamide	Spb_106_46P	3.12879187051e-10	ABX determinants
+Aminonucleoside	Spb_106_46P	0	ABX determinants
+Aminocoumarin	Spb_106_46P	1.91527303556e-09	ABX determinants
+Miscellaneous	Spb_106_46P	1.54358629721e-10	ABX determinants
+Rifamycin	Spb_106_46P	8.16323022394e-10	ABX determinants
+Lipopeptide	Spb_106_46P	6.03596872699e-09	ABX determinants
+Fluoroquinolone	Spb_106_46P	6.1454626606e-09	ABX determinants
+Oxazolidinone	Spb_106_46P	0	ABX determinants
+Macrolide	Spb_106_46P	2.99767262258e-08	ABX determinants
+Phenicol	Spb_106_46P	1.41903099481e-08	ABX determinants
+Elfamycin	Spb_106_46P	0	ABX determinants
+Beta-lactam	Spb_106_46P	1.88817954999e-08	ABX determinants
+Peptide	Spb_106_46P	1.18160311937e-09	ABX determinants
+Coumarin	Spb_106_46P	2.11518991391e-09	ABX mutations
+Rifampin	Spb_106_46P	1.19832441359e-09	ABX mutations
+Sulfonamides	Spb_106_46P	1.58198847005e-09	ABX mutations
+Fluoroquinolones	Spb_106_46P	1.09289277651e-08	ABX mutations
+Metals	TYV_208	8.25091793202e-10	Metals
+Biocides	TYV_208	5.32058290566e-10	Biocides
+Aminoglycoside	RND_304	2.14002513408e-08	ABX determinants
+Tetracycline derivative	RND_304	9.21602614189e-08	ABX determinants
+Nucleoside	RND_304	1.10088338563e-08	ABX determinants
+Pleuromutilin	RND_304	0	ABX determinants
+Diaminopyrimidine	RND_304	1.76618323894e-09	ABX determinants
+Glycopeptide	RND_304	1.6497418001e-10	ABX determinants
+Lincosamide	RND_304	1.34676720345e-08	ABX determinants
+Streptogramin	RND_304	1.24719349667e-08	ABX determinants
+Sulfonamide	RND_304	0	ABX determinants
+Aminonucleoside	RND_304	0	ABX determinants
+Aminocoumarin	RND_304	3.37333131662e-10	ABX determinants
+Miscellaneous	RND_304	0	ABX determinants
+Rifamycin	RND_304	1.49433228646e-10	ABX determinants
+Lipopeptide	RND_304	7.20426506704e-10	ABX determinants
+Fluoroquinolone	RND_304	7.2897916598e-10	ABX determinants
+Oxazolidinone	RND_304	0	ABX determinants
+Macrolide	RND_304	1.3022161978e-08	ABX determinants
+Phenicol	RND_304	2.14342900822e-09	ABX determinants
+Elfamycin	RND_304	0	ABX determinants
+Beta-lactam	RND_304	4.30139503236e-09	ABX determinants
+Peptide	RND_304	1.80118788356e-10	ABX determinants
+Coumarin	RND_304	2.8960889363e-09	ABX mutations
+Rifampin	RND_304	1.02558510807e-09	ABX mutations
+Sulfonamides	RND_304	7.28186598438e-10	ABX mutations
+Fluoroquinolones	RND_304	1.34364926905e-08	ABX mutations
+Metals	Kh_242	1.19348255346e-08	Metals
+Biocides	Kh_242	5.4783803716e-09	Biocides
+Aminoglycoside	TAT_147	2.89640181116e-09	ABX determinants
+Tetracycline derivative	TAT_147	1.43981553623e-07	ABX determinants
+Nucleoside	TAT_147	1.13645786163e-09	ABX determinants
+Pleuromutilin	TAT_147	0	ABX determinants
+Diaminopyrimidine	TAT_147	4.02755167174e-08	ABX determinants
+Glycopeptide	TAT_147	2.7083808852e-11	ABX determinants
+Lincosamide	TAT_147	2.15575694885e-09	ABX determinants
+Streptogramin	TAT_147	2.04720600002e-09	ABX determinants
+Sulfonamide	TAT_147	9.45889040283e-11	ABX determinants
+Aminonucleoside	TAT_147	0	ABX determinants
+Aminocoumarin	TAT_147	5.58544109855e-11	ABX determinants
+Miscellaneous	TAT_147	0	ABX determinants
+Rifamycin	TAT_147	0	ABX determinants
+Lipopeptide	TAT_147	1.99921269059e-10	ABX determinants
+Fluoroquinolone	TAT_147	2.5338531576e-10	ABX determinants
+Oxazolidinone	TAT_147	0	ABX determinants
+Macrolide	TAT_147	2.15677441475e-09	ABX determinants
+Phenicol	TAT_147	3.55449584233e-09	ABX determinants
+Elfamycin	TAT_147	0	ABX determinants
+Beta-lactam	TAT_147	7.11048448932e-09	ABX determinants
+Peptide	TAT_147	2.34748282476e-11	ABX determinants
+Coumarin	TAT_147	3.18548291901e-09	ABX mutations
+Rifampin	TAT_147	6.84443378337e-10	ABX mutations
+Sulfonamides	TAT_147	0.0	ABX mutations
+Fluoroquinolones	TAT_147	1.14140066501e-08	ABX mutations
+Aminoglycoside	SAR_270	1.39842547109e-09	ABX determinants
+Tetracycline derivative	SAR_270	1.13766719019e-07	ABX determinants
+Nucleoside	SAR_270	2.4048260544e-10	ABX determinants
+Pleuromutilin	SAR_270	0	ABX determinants
+Diaminopyrimidine	SAR_270	4.74759208158e-09	ABX determinants
+Glycopeptide	SAR_270	8.52871686898e-10	ABX determinants
+Lincosamide	SAR_270	1.59776519755e-08	ABX determinants
+Streptogramin	SAR_270	1.5050223209e-08	ABX determinants
+Sulfonamide	SAR_270	0	ABX determinants
+Aminonucleoside	SAR_270	0	ABX determinants
+Aminocoumarin	SAR_270	2.56065592483e-10	ABX determinants
+Miscellaneous	SAR_270	0	ABX determinants
+Rifamycin	SAR_270	1.05728664678e-10	ABX determinants
+Lipopeptide	SAR_270	5.95232196375e-10	ABX determinants
+Fluoroquinolone	SAR_270	9.34549819531e-10	ABX determinants
+Oxazolidinone	SAR_270	0	ABX determinants
+Macrolide	SAR_270	1.68462824238e-08	ABX determinants
+Phenicol	SAR_270	5.33384726006e-09	ABX determinants
+Elfamycin	SAR_270	0	ABX determinants
+Beta-lactam	SAR_270	4.04592560355e-09	ABX determinants
+Peptide	SAR_270	2.27083036555e-11	ABX determinants
+Coumarin	SAR_270	7.48775043531e-10	ABX mutations
+Rifampin	SAR_270	6.72863767755e-10	ABX mutations
+Sulfonamides	SAR_270	9.22565135244e-10	ABX mutations
+Fluoroquinolones	SAR_270	6.57043838505e-09	ABX mutations
+Aminoglycoside	NOV_286	2.34974859391e-09	ABX determinants
+Tetracycline derivative	NOV_286	6.1299364889e-08	ABX determinants
+Nucleoside	NOV_286	3.57524941392e-10	ABX determinants
+Pleuromutilin	NOV_286	0	ABX determinants
+Diaminopyrimidine	NOV_286	3.92124129268e-10	ABX determinants
+Glycopeptide	NOV_286	7.33650831832e-11	ABX determinants
+Lincosamide	NOV_286	8.00995643934e-09	ABX determinants
+Streptogramin	NOV_286	7.96182217961e-09	ABX determinants
+Sulfonamide	NOV_286	0	ABX determinants
+Aminonucleoside	NOV_286	0	ABX determinants
+Aminocoumarin	NOV_286	1.30358572704e-09	ABX determinants
+Miscellaneous	NOV_286	0	ABX determinants
+Rifamycin	NOV_286	5.22832172358e-10	ABX determinants
+Lipopeptide	NOV_286	2.95677781686e-09	ABX determinants
+Fluoroquinolone	NOV_286	3.78053207606e-09	ABX determinants
+Oxazolidinone	NOV_286	0	ABX determinants
+Macrolide	NOV_286	9.36425615149e-09	ABX determinants
+Phenicol	NOV_286	4.03046711331e-09	ABX determinants
+Elfamycin	NOV_286	0	ABX determinants
+Beta-lactam	NOV_286	4.80939213981e-08	ABX determinants
+Peptide	NOV_286	3.78116292816e-10	ABX determinants
+Coumarin	NOV_286	1.12523913113e-09	ABX mutations
+Rifampin	NOV_286	3.76736474503e-10	ABX mutations
+Sulfonamides	NOV_286	0.0	ABX mutations
+Fluoroquinolones	NOV_286	1.17154579719e-08	ABX mutations
+Aminoglycoside	OM_194	3.23834973247e-10	ABX determinants
+Tetracycline derivative	OM_194	7.22987918092e-08	ABX determinants
+Nucleoside	OM_194	2.9157180996e-10	ABX determinants
+Pleuromutilin	OM_194	0	ABX determinants
+Diaminopyrimidine	OM_194	3.32579974199e-09	ABX determinants
+Glycopeptide	OM_194	0	ABX determinants
+Lincosamide	OM_194	2.30609277168e-08	ABX determinants
+Streptogramin	OM_194	2.31042355842e-08	ABX determinants
+Sulfonamide	OM_194	0	ABX determinants
+Aminonucleoside	OM_194	0	ABX determinants
+Aminocoumarin	OM_194	6.71755967081e-11	ABX determinants
+Miscellaneous	OM_194	0	ABX determinants
+Rifamycin	OM_194	2.13192291153e-11	ABX determinants
+Lipopeptide	OM_194	3.27041370346e-11	ABX determinants
+Fluoroquinolone	OM_194	2.43087530341e-10	ABX determinants
+Oxazolidinone	OM_194	0	ABX determinants
+Macrolide	OM_194	2.31732937396e-08	ABX determinants
+Phenicol	OM_194	3.37475500885e-09	ABX determinants
+Elfamycin	OM_194	0	ABX determinants
+Beta-lactam	OM_194	2.84618434751e-08	ABX determinants
+Peptide	OM_194	7.70911614182e-11	ABX determinants
+Coumarin	OM_194	9.17691256352e-10	ABX mutations
+Rifampin	OM_194	5.6630854793e-10	ABX mutations
+Sulfonamides	OM_194	9.25738676655e-10	ABX mutations
+Fluoroquinolones	OM_194	7.48797511607e-09	ABX mutations
+Aminoglycoside	SAR_273	1.34919795335e-10	ABX determinants
+Tetracycline derivative	SAR_273	8.78132554405e-08	ABX determinants
+Nucleoside	SAR_273	9.53964095227e-11	ABX determinants
+Pleuromutilin	SAR_273	0	ABX determinants
+Diaminopyrimidine	SAR_273	8.37026560974e-10	ABX determinants
+Glycopeptide	SAR_273	1.20164249896e-09	ABX determinants
+Lincosamide	SAR_273	9.01618660133e-09	ABX determinants
+Streptogramin	SAR_273	8.7913949179e-09	ABX determinants
+Sulfonamide	SAR_273	0	ABX determinants
+Aminonucleoside	SAR_273	0	ABX determinants
+Aminocoumarin	SAR_273	8.30596139251e-12	ABX determinants
+Miscellaneous	SAR_273	0	ABX determinants
+Rifamycin	SAR_273	0	ABX determinants
+Lipopeptide	SAR_273	2.67503333919e-11	ABX determinants
+Fluoroquinolone	SAR_273	0	ABX determinants
+Oxazolidinone	SAR_273	0	ABX determinants
+Macrolide	SAR_273	9.13197340374e-09	ABX determinants
+Phenicol	SAR_273	3.63545912984e-09	ABX determinants
+Elfamycin	SAR_273	0	ABX determinants
+Beta-lactam	SAR_273	5.85050447629e-09	ABX determinants
+Peptide	SAR_273	0	ABX determinants
+Coumarin	SAR_273	2.8291702835e-10	ABX mutations
+Rifampin	SAR_273	3.74470963457e-10	ABX mutations
+Sulfonamides	SAR_273	2.49661940641e-09	ABX mutations
+Fluoroquinolones	SAR_273	2.74529250954e-09	ABX mutations
+Aminoglycoside	OM_193	3.04378900981e-10	ABX determinants
+Tetracycline derivative	OM_193	6.35056585031e-08	ABX determinants
+Nucleoside	OM_193	3.18212038953e-10	ABX determinants
+Pleuromutilin	OM_193	0	ABX determinants
+Diaminopyrimidine	OM_193	2.5302989549e-09	ABX determinants
+Glycopeptide	OM_193	0	ABX determinants
+Lincosamide	OM_193	3.76036956729e-08	ABX determinants
+Streptogramin	OM_193	3.76332361762e-08	ABX determinants
+Sulfonamide	OM_193	0	ABX determinants
+Aminonucleoside	OM_193	0	ABX determinants
+Aminocoumarin	OM_193	5.28485377319e-11	ABX determinants
+Miscellaneous	OM_193	0	ABX determinants
+Rifamycin	OM_193	1.45419480167e-11	ABX determinants
+Lipopeptide	OM_193	2.38431308597e-10	ABX determinants
+Fluoroquinolone	OM_193	2.5459413321e-10	ABX determinants
+Oxazolidinone	OM_193	0	ABX determinants
+Macrolide	OM_193	3.776799479e-08	ABX determinants
+Phenicol	OM_193	2.12983607875e-09	ABX determinants
+Elfamycin	OM_193	0	ABX determinants
+Beta-lactam	OM_193	4.71093810259e-08	ABX determinants
+Peptide	OM_193	2.62921247251e-11	ABX determinants
+Coumarin	OM_193	2.06451544818e-10	ABX mutations
+Rifampin	OM_193	5.15478000622e-10	ABX mutations
+Sulfonamides	OM_193	2.23076214567e-10	ABX mutations
+Fluoroquinolones	OM_193	1.0553186304e-08	ABX mutations
+Metals	Spb_106_46P	2.65755332552e-08	Metals
+Biocides	Spb_106_46P	1.89546461731e-08	Biocides
+Metals	NOV_283	3.2059172469e-07	Metals
+Biocides	NOV_283	2.18542039112e-07	Biocides
+Aminoglycoside	TYV_211	1.36272580147e-07	ABX determinants
+Tetracycline derivative	TYV_211	9.6072344583e-08	ABX determinants
+Nucleoside	TYV_211	1.62812360653e-07	ABX determinants
+Pleuromutilin	TYV_211	0	ABX determinants
+Diaminopyrimidine	TYV_211	1.67531055433e-09	ABX determinants
+Glycopeptide	TYV_211	6.85228725904e-11	ABX determinants
+Lincosamide	TYV_211	6.17030094909e-09	ABX determinants
+Streptogramin	TYV_211	6.03890565817e-09	ABX determinants
+Sulfonamide	TYV_211	1.19656423781e-10	ABX determinants
+Aminonucleoside	TYV_211	0	ABX determinants
+Aminocoumarin	TYV_211	4.76609653124e-10	ABX determinants
+Miscellaneous	TYV_211	0	ABX determinants
+Rifamycin	TYV_211	1.31396906222e-10	ABX determinants
+Lipopeptide	TYV_211	1.97404283876e-09	ABX determinants
+Fluoroquinolone	TYV_211	1.86396919517e-09	ABX determinants
+Oxazolidinone	TYV_211	0	ABX determinants
+Macrolide	TYV_211	6.69882014788e-09	ABX determinants
+Phenicol	TYV_211	3.55746206269e-09	ABX determinants
+Elfamycin	TYV_211	0	ABX determinants
+Beta-lactam	TYV_211	8.80088179679e-09	ABX determinants
+Peptide	TYV_211	3.56352241418e-10	ABX determinants
+Coumarin	TYV_211	5.02853576298e-10	ABX mutations
+Rifampin	TYV_211	3.84994043423e-10	ABX mutations
+Sulfonamides	TYV_211	0.0	ABX mutations
+Fluoroquinolones	TYV_211	4.33128944174e-09	ABX mutations
+Metals	SAR_276	1.20666010315e-09	Metals
+Biocides	SAR_276	1.1705518039e-10	Biocides
+Metals	TYV_209	9.44735259351e-10	Metals
+Biocides	TYV_209	1.85610952757e-10	Biocides
+Metals	TAT_147	1.63470389891e-09	Metals
+Biocides	TAT_147	9.81744327299e-10	Biocides
+Aminoglycoside	TYV_219	2.09235978769e-09	ABX determinants
+Tetracycline derivative	TYV_219	1.76067700243e-07	ABX determinants
+Nucleoside	TYV_219	4.36596667596e-10	ABX determinants
+Pleuromutilin	TYV_219	0	ABX determinants
+Diaminopyrimidine	TYV_219	9.57695916018e-09	ABX determinants
+Glycopeptide	TYV_219	7.39902140724e-11	ABX determinants
+Lincosamide	TYV_219	7.67990730681e-08	ABX determinants
+Streptogramin	TYV_219	7.57386494885e-08	ABX determinants
+Sulfonamide	TYV_219	9.69027283445e-11	ABX determinants
+Aminonucleoside	TYV_219	0	ABX determinants
+Aminocoumarin	TYV_219	2.91479152449e-11	ABX determinants
+Miscellaneous	TYV_219	0	ABX determinants
+Rifamycin	TYV_219	1.33013321669e-11	ABX determinants
+Lipopeptide	TYV_219	0	ABX determinants
+Fluoroquinolone	TYV_219	9.02370851953e-11	ABX determinants
+Oxazolidinone	TYV_219	0	ABX determinants
+Macrolide	TYV_219	7.58031821812e-08	ABX determinants
+Phenicol	TYV_219	6.03982798318e-09	ABX determinants
+Elfamycin	TYV_219	0	ABX determinants
+Beta-lactam	TYV_219	3.06972596782e-08	ABX determinants
+Peptide	TYV_219	0	ABX determinants
+Coumarin	TYV_219	4.31941998572e-09	ABX mutations
+Rifampin	TYV_219	1.0997752389e-09	ABX mutations
+Sulfonamides	TYV_219	0.0	ABX mutations
+Fluoroquinolones	TYV_219	1.77117618483e-08	ABX mutations
+Metals	OM_185	9.42861724651e-08	Metals
+Biocides	OM_185	5.82494457797e-08	Biocides
+Aminoglycoside	SAR_262	3.07950917176e-09	ABX determinants
+Tetracycline derivative	SAR_262	5.69665839245e-09	ABX determinants
+Nucleoside	SAR_262	9.5683370335e-10	ABX determinants
+Pleuromutilin	SAR_262	0	ABX determinants
+Diaminopyrimidine	SAR_262	3.49389557685e-10	ABX determinants
+Glycopeptide	SAR_262	0	ABX determinants
+Lincosamide	SAR_262	1.09898003265e-09	ABX determinants
+Streptogramin	SAR_262	1.46621299809e-09	ABX determinants
+Sulfonamide	SAR_262	0	ABX determinants
+Aminonucleoside	SAR_262	0	ABX determinants
+Aminocoumarin	SAR_262	0	ABX determinants
+Miscellaneous	SAR_262	0	ABX determinants
+Rifamycin	SAR_262	0	ABX determinants
+Lipopeptide	SAR_262	2.1094935547e-11	ABX determinants
+Fluoroquinolone	SAR_262	1.00244278726e-10	ABX determinants
+Oxazolidinone	SAR_262	0	ABX determinants
+Macrolide	SAR_262	1.46621299809e-09	ABX determinants
+Phenicol	SAR_262	2.7805423858e-10	ABX determinants
+Elfamycin	SAR_262	0	ABX determinants
+Beta-lactam	SAR_262	6.98013068218e-10	ABX determinants
+Peptide	SAR_262	0	ABX determinants
+Coumarin	SAR_262	1.06849253219e-10	ABX mutations
+Rifampin	SAR_262	5.00922274051e-11	ABX mutations
+Sulfonamides	SAR_262	0.0	ABX mutations
+Fluoroquinolones	SAR_262	7.74701169037e-10	ABX mutations
+Metals	RND_304	2.78077636578e-09	Metals
+Biocides	RND_304	2.03125285421e-09	Biocides
+Aminoglycoside	TYV_203	4.10840274293e-09	ABX determinants
+Tetracycline derivative	TYV_203	9.96736258834e-08	ABX determinants
+Nucleoside	TYV_203	1.10038826723e-09	ABX determinants
+Pleuromutilin	TYV_203	0	ABX determinants
+Diaminopyrimidine	TYV_203	3.94761308883e-09	ABX determinants
+Glycopeptide	TYV_203	1.43865760679e-09	ABX determinants
+Lincosamide	TYV_203	2.68069620593e-09	ABX determinants
+Streptogramin	TYV_203	1.64467009193e-09	ABX determinants
+Sulfonamide	TYV_203	0	ABX determinants
+Aminonucleoside	TYV_203	0	ABX determinants
+Aminocoumarin	TYV_203	2.05820400665e-10	ABX determinants
+Miscellaneous	TYV_203	0	ABX determinants
+Rifamycin	TYV_203	1.23782303013e-10	ABX determinants
+Lipopeptide	TYV_203	9.71547126473e-10	ABX determinants
+Fluoroquinolone	TYV_203	8.74946113719e-10	ABX determinants
+Oxazolidinone	TYV_203	0	ABX determinants
+Macrolide	TYV_203	2.07699201406e-09	ABX determinants
+Phenicol	TYV_203	1.9262208748e-09	ABX determinants
+Elfamycin	TYV_203	0	ABX determinants
+Beta-lactam	TYV_203	2.51419850041e-09	ABX determinants
+Peptide	TYV_203	2.79751012885e-10	ABX determinants
+Coumarin	TYV_203	1.4611811476e-09	ABX mutations
+Rifampin	TYV_203	1.0100353297e-09	ABX mutations
+Sulfonamides	TYV_203	1.70144425701e-10	ABX mutations
+Fluoroquinolones	TYV_203	5.35063547835e-09	ABX mutations
+Metals	TAT_138	3.56746142127e-09	Metals
+Biocides	TAT_138	7.75485805009e-10	Biocides
+Aminoglycoside	RND_306	8.75630309943e-10	ABX determinants
+Tetracycline derivative	RND_306	1.2757861173e-07	ABX determinants
+Nucleoside	RND_306	1.68960222539e-10	ABX determinants
+Pleuromutilin	RND_306	0	ABX determinants
+Diaminopyrimidine	RND_306	2.03842332999e-09	ABX determinants
+Glycopeptide	RND_306	0	ABX determinants
+Lincosamide	RND_306	7.5154885713e-08	ABX determinants
+Streptogramin	RND_306	7.6063962036e-08	ABX determinants
+Sulfonamide	RND_306	0	ABX determinants
+Aminonucleoside	RND_306	0	ABX determinants
+Aminocoumarin	RND_306	1.10141854874e-10	ABX determinants
+Miscellaneous	RND_306	0	ABX determinants
+Rifamycin	RND_306	4.11802692927e-11	ABX determinants
+Lipopeptide	RND_306	2.33297844266e-10	ABX determinants
+Fluoroquinolone	RND_306	2.38089536701e-10	ABX determinants
+Oxazolidinone	RND_306	0	ABX determinants
+Macrolide	RND_306	7.72656709934e-08	ABX determinants
+Phenicol	RND_306	6.13072224861e-09	ABX determinants
+Elfamycin	RND_306	0	ABX determinants
+Beta-lactam	RND_306	1.18889803321e-08	ABX determinants
+Peptide	RND_306	0	ABX determinants
+Coumarin	RND_306	1.01374672947e-09	ABX mutations
+Rifampin	RND_306	5.21807446129e-10	ABX mutations
+Sulfonamides	RND_306	3.71785665429e-10	ABX mutations
+Fluoroquinolones	RND_306	1.11279609295e-08	ABX mutations
+Metals	Spb_76_16P	1.56311257223e-07	Metals
+Biocides	Spb_76_16P	9.59578582647e-08	Biocides
+Aminoglycoside	Kh_250	3.30094409856e-10	ABX determinants
+Tetracycline derivative	Kh_250	5.35974134817e-08	ABX determinants
+Nucleoside	Kh_250	0	ABX determinants
+Pleuromutilin	Kh_250	0	ABX determinants
+Diaminopyrimidine	Kh_250	3.72290917573e-09	ABX determinants
+Glycopeptide	Kh_250	0	ABX determinants
+Lincosamide	Kh_250	5.20452814814e-08	ABX determinants
+Streptogramin	Kh_250	4.82133530563e-08	ABX determinants
+Sulfonamide	Kh_250	0	ABX determinants
+Aminonucleoside	Kh_250	0	ABX determinants
+Aminocoumarin	Kh_250	1.39804989038e-10	ABX determinants
+Miscellaneous	Kh_250	0	ABX determinants
+Rifamycin	Kh_250	4.43203473301e-11	ABX determinants
+Lipopeptide	Kh_250	3.13880170608e-10	ABX determinants
+Fluoroquinolone	Kh_250	4.20153006692e-10	ABX determinants
+Oxazolidinone	Kh_250	0	ABX determinants
+Macrolide	Kh_250	4.84340953212e-08	ABX determinants
+Phenicol	Kh_250	6.86779433266e-10	ABX determinants
+Elfamycin	Kh_250	0	ABX determinants
+Beta-lactam	Kh_250	8.37296538315e-08	ABX determinants
+Peptide	Kh_250	0	ABX determinants
+Coumarin	Kh_250	0.0	ABX mutations
+Rifampin	Kh_250	5.81875225637e-10	ABX mutations
+Sulfonamides	Kh_250	2.90321491191e-10	ABX mutations
+Fluoroquinolones	Kh_250	1.1570217002e-08	ABX mutations
+Metals	TAT_129	6.06775597974e-10	Metals
+Biocides	TAT_129	2.34989231544e-10	Biocides
+Aminoglycoside	Spb_73_13P	1.21511011223e-08	ABX determinants
+Tetracycline derivative	Spb_73_13P	1.75309566555e-07	ABX determinants
+Nucleoside	Spb_73_13P	4.95270198659e-10	ABX determinants
+Pleuromutilin	Spb_73_13P	0	ABX determinants
+Diaminopyrimidine	Spb_73_13P	6.42121337964e-09	ABX determinants
+Glycopeptide	Spb_73_13P	8.20779654038e-11	ABX determinants
+Lincosamide	Spb_73_13P	1.82197742717e-08	ABX determinants
+Streptogramin	Spb_73_13P	1.81283749477e-08	ABX determinants
+Sulfonamide	Spb_73_13P	2.1985066346e-10	ABX determinants
+Aminonucleoside	Spb_73_13P	0	ABX determinants
+Aminocoumarin	Spb_73_13P	2.94906416599e-08	ABX determinants
+Miscellaneous	Spb_73_13P	1.0516275881e-10	ABX determinants
+Rifamycin	Spb_73_13P	9.92353453502e-09	ABX determinants
+Lipopeptide	Spb_73_13P	6.55564042438e-08	ABX determinants
+Fluoroquinolone	Spb_73_13P	8.27980053117e-08	ABX determinants
+Oxazolidinone	Spb_73_13P	0	ABX determinants
+Macrolide	Spb_73_13P	5.04320421376e-08	ABX determinants
+Phenicol	Spb_73_13P	1.15736005057e-08	ABX determinants
+Elfamycin	Spb_73_13P	0	ABX determinants
+Beta-lactam	Spb_73_13P	6.9981945787e-08	ABX determinants
+Peptide	Spb_73_13P	1.3967863294e-08	ABX determinants
+Coumarin	Spb_73_13P	1.47417431071e-09	ABX mutations
+Rifampin	Spb_73_13P	3.13970943173e-09	ABX mutations
+Sulfonamides	Spb_73_13P	1.06645433955e-09	ABX mutations
+Fluoroquinolones	Spb_73_13P	8.93481658866e-09	ABX mutations
+Aminoglycoside	TAT_131	4.61195509789e-09	ABX determinants
+Tetracycline derivative	TAT_131	1.9017374138e-07	ABX determinants
+Nucleoside	TAT_131	1.37725495066e-09	ABX determinants
+Pleuromutilin	TAT_131	0	ABX determinants
+Diaminopyrimidine	TAT_131	3.84280787783e-08	ABX determinants
+Glycopeptide	TAT_131	2.80084745107e-11	ABX determinants
+Lincosamide	TAT_131	1.83839903233e-09	ABX determinants
+Streptogramin	TAT_131	1.80131454404e-09	ABX determinants
+Sulfonamide	TAT_131	4.40182145309e-10	ABX determinants
+Aminonucleoside	TAT_131	0	ABX determinants
+Aminocoumarin	TAT_131	1.52942933678e-10	ABX determinants
+Miscellaneous	TAT_131	0	ABX determinants
+Rifamycin	TAT_131	8.05620100173e-11	ABX determinants
+Lipopeptide	TAT_131	3.78612818825e-10	ABX determinants
+Fluoroquinolone	TAT_131	5.59771362686e-10	ABX determinants
+Oxazolidinone	TAT_131	0	ABX determinants
+Macrolide	TAT_131	2.11699479937e-09	ABX determinants
+Phenicol	TAT_131	3.70576452e-09	ABX determinants
+Elfamycin	TAT_131	0	ABX determinants
+Beta-lactam	TAT_131	7.68001133333e-09	ABX determinants
+Peptide	TAT_131	7.28288401615e-11	ABX determinants
+Coumarin	TAT_131	6.64494182134e-09	ABX mutations
+Rifampin	TAT_131	1.06273339526e-09	ABX mutations
+Sulfonamides	TAT_131	0.0	ABX mutations
+Fluoroquinolones	TAT_131	1.83152509538e-08	ABX mutations
+Metals	TYV_210	2.17378035987e-09	Metals
+Biocides	TYV_210	9.65568698169e-10	Biocides
+Metals	Spb_101_41P	1.56819284155e-09	Metals
+Biocides	Spb_101_41P	3.07885837545e-10	Biocides
+Aminoglycoside	TYV_214	5.1560723382e-09	ABX determinants
+Tetracycline derivative	TYV_214	8.69655303926e-08	ABX determinants
+Nucleoside	TYV_214	3.11695287186e-09	ABX determinants
+Pleuromutilin	TYV_214	0	ABX determinants
+Diaminopyrimidine	TYV_214	3.43118829042e-09	ABX determinants
+Glycopeptide	TYV_214	2.44324502189e-10	ABX determinants
+Lincosamide	TYV_214	1.35187315262e-08	ABX determinants
+Streptogramin	TYV_214	1.33285224899e-08	ABX determinants
+Sulfonamide	TYV_214	1.69250387763e-10	ABX determinants
+Aminonucleoside	TYV_214	0	ABX determinants
+Aminocoumarin	TYV_214	1.64262761599e-10	ABX determinants
+Miscellaneous	TYV_214	0	ABX determinants
+Rifamycin	TYV_214	1.18701162235e-10	ABX determinants
+Lipopeptide	TYV_214	4.64399262475e-10	ABX determinants
+Fluoroquinolone	TYV_214	9.06042222363e-10	ABX determinants
+Oxazolidinone	TYV_214	0	ABX determinants
+Macrolide	TYV_214	1.37165664046e-08	ABX determinants
+Phenicol	TYV_214	1.13249305533e-08	ABX determinants
+Elfamycin	TYV_214	0	ABX determinants
+Beta-lactam	TYV_214	1.74247432131e-08	ABX determinants
+Peptide	TYV_214	8.58456035992e-11	ABX determinants
+Coumarin	TYV_214	7.43563808467e-10	ABX mutations
+Rifampin	TYV_214	4.77947163213e-10	ABX mutations
+Sulfonamides	TYV_214	3.89441121012e-10	ABX mutations
+Fluoroquinolones	TYV_214	3.31192279645e-09	ABX mutations
+Metals	OM_191	6.14473198217e-10	Metals
+Biocides	OM_191	1.21209242271e-10	Biocides
+Aminoglycoside	OM_181	4.51440207809e-11	ABX determinants
+Tetracycline derivative	OM_181	9.73691816337e-08	ABX determinants
+Nucleoside	OM_181	6.90437964885e-11	ABX determinants
+Pleuromutilin	OM_181	0	ABX determinants
+Diaminopyrimidine	OM_181	2.27176362639e-10	ABX determinants
+Glycopeptide	OM_181	0	ABX determinants
+Lincosamide	OM_181	1.62170644283e-08	ABX determinants
+Streptogramin	OM_181	1.62427025343e-08	ABX determinants
+Sulfonamide	OM_181	0	ABX determinants
+Aminonucleoside	OM_181	0	ABX determinants
+Aminocoumarin	OM_181	1.61257947175e-10	ABX determinants
+Miscellaneous	OM_181	0	ABX determinants
+Rifamycin	OM_181	1.00967272284e-10	ABX determinants
+Lipopeptide	OM_181	5.95253661787e-10	ABX determinants
+Fluoroquinolone	OM_181	4.71097550228e-10	ABX determinants
+Oxazolidinone	OM_181	0	ABX determinants
+Macrolide	OM_181	1.65669930574e-08	ABX determinants
+Phenicol	OM_181	1.10603206098e-08	ABX determinants
+Elfamycin	OM_181	0	ABX determinants
+Beta-lactam	OM_181	3.43165899981e-08	ABX determinants
+Peptide	OM_181	0	ABX determinants
+Coumarin	OM_181	3.57693977054e-10	ABX mutations
+Rifampin	OM_181	1.77711813788e-10	ABX mutations
+Sulfonamides	OM_181	0.0	ABX mutations
+Fluoroquinolones	OM_181	4.80925218136e-09	ABX mutations
+Metals	Spb_98_38P	5.04563186452e-09	Metals
+Biocides	Spb_98_38P	3.60517194028e-09	Biocides
+Aminoglycoside	SAR_267	4.22651954307e-10	ABX determinants
+Tetracycline derivative	SAR_267	1.06651610279e-07	ABX determinants
+Nucleoside	SAR_267	0	ABX determinants
+Pleuromutilin	SAR_267	0	ABX determinants
+Diaminopyrimidine	SAR_267	2.3744910155e-10	ABX determinants
+Glycopeptide	SAR_267	1.34206727885e-10	ABX determinants
+Lincosamide	SAR_267	2.59781506838e-09	ABX determinants
+Streptogramin	SAR_267	1.91603341136e-09	ABX determinants
+Sulfonamide	SAR_267	0	ABX determinants
+Aminonucleoside	SAR_267	0	ABX determinants
+Aminocoumarin	SAR_267	8.45681683124e-11	ABX determinants
+Miscellaneous	SAR_267	0	ABX determinants
+Rifamycin	SAR_267	7.38186751202e-11	ABX determinants
+Lipopeptide	SAR_267	3.46286166113e-10	ABX determinants
+Fluoroquinolone	SAR_267	4.06713599403e-10	ABX determinants
+Oxazolidinone	SAR_267	0	ABX determinants
+Macrolide	SAR_267	2.16393618394e-09	ABX determinants
+Phenicol	SAR_267	6.6851307223e-09	ABX determinants
+Elfamycin	SAR_267	0	ABX determinants
+Beta-lactam	SAR_267	2.07857177451e-08	ABX determinants
+Peptide	SAR_267	2.86208394578e-11	ABX determinants
+Coumarin	SAR_267	7.19372867352e-09	ABX mutations
+Rifampin	SAR_267	2.37562719059e-10	ABX mutations
+Sulfonamides	SAR_267	0.0	ABX mutations
+Fluoroquinolones	SAR_267	4.97491694995e-09	ABX mutations
+Aminoglycoside	TYV_210	1.18206094314e-09	ABX determinants
+Tetracycline derivative	TYV_210	7.1208317029e-08	ABX determinants
+Nucleoside	TYV_210	8.70277977658e-10	ABX determinants
+Pleuromutilin	TYV_210	0	ABX determinants
+Diaminopyrimidine	TYV_210	4.96339182097e-10	ABX determinants
+Glycopeptide	TYV_210	1.76983633587e-11	ABX determinants
+Lincosamide	TYV_210	1.70730480728e-08	ABX determinants
+Streptogramin	TYV_210	1.59210985124e-08	ABX determinants
+Sulfonamide	TYV_210	4.63580141832e-11	ABX determinants
+Aminonucleoside	TYV_210	0	ABX determinants
+Aminocoumarin	TYV_210	3.16628059868e-10	ABX determinants
+Miscellaneous	TYV_210	0	ABX determinants
+Rifamycin	TYV_210	1.39993102643e-10	ABX determinants
+Lipopeptide	TYV_210	3.92898354609e-10	ABX determinants
+Fluoroquinolone	TYV_210	8.49308282816e-10	ABX determinants
+Oxazolidinone	TYV_210	0	ABX determinants
+Macrolide	TYV_210	1.62696507299e-08	ABX determinants
+Phenicol	TYV_210	5.54702675174e-09	ABX determinants
+Elfamycin	TYV_210	0	ABX determinants
+Beta-lactam	TYV_210	4.15749434181e-09	ABX determinants
+Peptide	TYV_210	9.20400913431e-11	ABX determinants
+Coumarin	TYV_210	1.74461806607e-09	ABX mutations
+Rifampin	TYV_210	7.93817556528e-10	ABX mutations
+Sulfonamides	TYV_210	1.67066268588e-10	ABX mutations
+Fluoroquinolones	TYV_210	5.26454135672e-09	ABX mutations
+Aminoglycoside	RND_312	7.3740480252e-10	ABX determinants
+Tetracycline derivative	RND_312	2.59430119031e-07	ABX determinants
+Nucleoside	RND_312	1.71628943964e-10	ABX determinants
+Pleuromutilin	RND_312	0	ABX determinants
+Diaminopyrimidine	RND_312	8.78444917494e-09	ABX determinants
+Glycopeptide	RND_312	0	ABX determinants
+Lincosamide	RND_312	5.223150572e-08	ABX determinants
+Streptogramin	RND_312	5.32236008426e-08	ABX determinants
+Sulfonamide	RND_312	2.20939879231e-09	ABX determinants
+Aminonucleoside	RND_312	0	ABX determinants
+Aminocoumarin	RND_312	1.99244868793e-11	ABX determinants
+Miscellaneous	RND_312	0	ABX determinants
+Rifamycin	RND_312	0	ABX determinants
+Lipopeptide	RND_312	2.43662970287e-10	ABX determinants
+Fluoroquinolone	RND_312	3.55392877763e-10	ABX determinants
+Oxazolidinone	RND_312	0	ABX determinants
+Macrolide	RND_312	5.42805700074e-08	ABX determinants
+Phenicol	RND_312	1.06440714675e-09	ABX determinants
+Elfamycin	RND_312	0	ABX determinants
+Beta-lactam	RND_312	1.71894413292e-08	ABX determinants
+Peptide	RND_312	7.5630737559e-11	ABX determinants
+Coumarin	RND_312	2.1173988918e-09	ABX mutations
+Rifampin	RND_312	1.74859622353e-09	ABX mutations
+Sulfonamides	RND_312	2.63051788465e-09	ABX mutations
+Fluoroquinolones	RND_312	1.63220856325e-08	ABX mutations
+Metals	RND_313	9.43647123726e-09	Metals
+Biocides	RND_313	4.25778453924e-09	Biocides
+Aminoglycoside	TYV_212	1.02971737767e-09	ABX determinants
+Tetracycline derivative	TYV_212	6.13342310513e-08	ABX determinants
+Nucleoside	TYV_212	1.77135635334e-10	ABX determinants
+Pleuromutilin	TYV_212	0	ABX determinants
+Diaminopyrimidine	TYV_212	2.64838304493e-09	ABX determinants
+Glycopeptide	TYV_212	2.98210841151e-10	ABX determinants
+Lincosamide	TYV_212	4.75835630897e-09	ABX determinants
+Streptogramin	TYV_212	4.51544931052e-09	ABX determinants
+Sulfonamide	TYV_212	0	ABX determinants
+Aminonucleoside	TYV_212	0	ABX determinants
+Aminocoumarin	TYV_212	1.65810548558e-10	ABX determinants
+Miscellaneous	TYV_212	0	ABX determinants
+Rifamycin	TYV_212	3.88555587184e-11	ABX determinants
+Lipopeptide	TYV_212	2.06768069781e-10	ABX determinants
+Fluoroquinolone	TYV_212	3.74756325977e-10	ABX determinants
+Oxazolidinone	TYV_212	0	ABX determinants
+Macrolide	TYV_212	4.70144269195e-09	ABX determinants
+Phenicol	TYV_212	7.23829771846e-09	ABX determinants
+Elfamycin	TYV_212	0	ABX determinants
+Beta-lactam	TYV_212	6.40858959297e-09	ABX determinants
+Peptide	TYV_212	9.36688074087e-11	ABX determinants
+Coumarin	TYV_212	7.15058786364e-10	ABX mutations
+Rifampin	TYV_212	7.44821838256e-10	ABX mutations
+Sulfonamides	TYV_212	1.80554099647e-10	ABX mutations
+Fluoroquinolones	TYV_212	8.76318527711e-09	ABX mutations
+Metals	OM_194	8.41338899854e-10	Metals
+Biocides	OM_194	5.85800038276e-10	Biocides
+Metals	Spb_74_14P	4.77864778931e-09	Metals
+Biocides	Spb_74_14P	1.93227231926e-09	Biocides
+Metals	TAT_134	1.87642945434e-09	Metals
+Biocides	TAT_134	1.01676322177e-09	Biocides
+Aminoglycoside	TYV_202	2.54352328171e-09	ABX determinants
+Tetracycline derivative	TYV_202	1.10306681599e-07	ABX determinants
+Nucleoside	TYV_202	1.14306175239e-10	ABX determinants
+Pleuromutilin	TYV_202	0	ABX determinants
+Diaminopyrimidine	TYV_202	3.34063596504e-10	ABX determinants
+Glycopeptide	TYV_202	2.94074693471e-11	ABX determinants
+Lincosamide	TYV_202	1.43994268206e-08	ABX determinants
+Streptogramin	TYV_202	1.43743018762e-08	ABX determinants
+Sulfonamide	TYV_202	0	ABX determinants
+Aminonucleoside	TYV_202	0	ABX determinants
+Aminocoumarin	TYV_202	0	ABX determinants
+Miscellaneous	TYV_202	0	ABX determinants
+Rifamycin	TYV_202	0	ABX determinants
+Lipopeptide	TYV_202	5.92963351437e-11	ABX determinants
+Fluoroquinolone	TYV_202	2.68230630167e-11	ABX determinants
+Oxazolidinone	TYV_202	0	ABX determinants
+Macrolide	TYV_202	1.46463612006e-08	ABX determinants
+Phenicol	TYV_202	5.036038539e-10	ABX determinants
+Elfamycin	TYV_202	0	ABX determinants
+Beta-lactam	TYV_202	5.12200212865e-09	ABX determinants
+Peptide	TYV_202	0	ABX determinants
+Coumarin	TYV_202	1.16459194135e-08	ABX mutations
+Rifampin	TYV_202	1.30523244109e-09	ABX mutations
+Sulfonamides	TYV_202	0.0	ABX mutations
+Fluoroquinolones	TYV_202	1.65443306934e-08	ABX mutations
+Metals	Spb_72_12P	6.90120831601e-09	Metals
+Biocides	Spb_72_12P	3.66210667977e-09	Biocides
+Metals	TAT_130	2.18107177331e-09	Metals
+Biocides	TAT_130	1.32583830169e-09	Biocides
+Metals	OM_182	8.81856902153e-10	Metals
+Biocides	OM_182	2.8762598854e-10	Biocides
+Aminoglycoside	Spb_103_43P	1.29188763652e-08	ABX determinants
+Tetracycline derivative	Spb_103_43P	1.9375394349e-07	ABX determinants
+Nucleoside	Spb_103_43P	3.15821907597e-09	ABX determinants
+Pleuromutilin	Spb_103_43P	0	ABX determinants
+Diaminopyrimidine	Spb_103_43P	3.59219478658e-09	ABX determinants
+Glycopeptide	Spb_103_43P	5.52344297073e-10	ABX determinants
+Lincosamide	Spb_103_43P	2.23888815134e-07	ABX determinants
+Streptogramin	Spb_103_43P	2.22170707753e-07	ABX determinants
+Sulfonamide	Spb_103_43P	2.57236710927e-10	ABX determinants
+Aminonucleoside	Spb_103_43P	0	ABX determinants
+Aminocoumarin	Spb_103_43P	1.93471802627e-10	ABX determinants
+Miscellaneous	Spb_103_43P	0	ABX determinants
+Rifamycin	Spb_103_43P	1.90422912525e-10	ABX determinants
+Lipopeptide	Spb_103_43P	8.6313420224e-10	ABX determinants
+Fluoroquinolone	Spb_103_43P	8.12405139636e-10	ABX determinants
+Oxazolidinone	Spb_103_43P	0	ABX determinants
+Macrolide	Spb_103_43P	2.23390857268e-07	ABX determinants
+Phenicol	Spb_103_43P	4.74698653385e-09	ABX determinants
+Elfamycin	Spb_103_43P	0	ABX determinants
+Beta-lactam	Spb_103_43P	7.40036675284e-08	ABX determinants
+Peptide	Spb_103_43P	0	ABX determinants
+Coumarin	Spb_103_43P	1.60898225369e-09	ABX mutations
+Rifampin	Spb_103_43P	1.52120821816e-09	ABX mutations
+Sulfonamides	Spb_103_43P	0.0	ABX mutations
+Fluoroquinolones	Spb_103_43P	1.73231261504e-08	ABX mutations
+Aminoglycoside	TYV_205	5.12141066421e-10	ABX determinants
+Tetracycline derivative	TYV_205	1.0129847715e-07	ABX determinants
+Nucleoside	TYV_205	6.19924533608e-11	ABX determinants
+Pleuromutilin	TYV_205	0	ABX determinants
+Diaminopyrimidine	TYV_205	7.88703987274e-09	ABX determinants
+Glycopeptide	TYV_205	9.55801471703e-11	ABX determinants
+Lincosamide	TYV_205	1.36158108159e-08	ABX determinants
+Streptogramin	TYV_205	1.36928532568e-08	ABX determinants
+Sulfonamide	TYV_205	1.37592389344e-11	ABX determinants
+Aminonucleoside	TYV_205	0	ABX determinants
+Aminocoumarin	TYV_205	3.59836690442e-12	ABX determinants
+Miscellaneous	TYV_205	0	ABX determinants
+Rifamycin	TYV_205	0	ABX determinants
+Lipopeptide	TYV_205	0	ABX determinants
+Fluoroquinolone	TYV_205	3.48017446479e-11	ABX determinants
+Oxazolidinone	TYV_205	0	ABX determinants
+Macrolide	TYV_205	1.38532315605e-08	ABX determinants
+Phenicol	TYV_205	7.37943721487e-10	ABX determinants
+Elfamycin	TYV_205	0	ABX determinants
+Beta-lactam	TYV_205	1.31447838504e-08	ABX determinants
+Peptide	TYV_205	0	ABX determinants
+Coumarin	TYV_205	1.54611688702e-08	ABX mutations
+Rifampin	TYV_205	3.31133504093e-09	ABX mutations
+Sulfonamides	TYV_205	0.0	ABX mutations
+Fluoroquinolones	TYV_205	1.94714015222e-08	ABX mutations
+Aminoglycoside	Kh_247	4.64811639218e-11	ABX determinants
+Tetracycline derivative	Kh_247	6.00969653825e-08	ABX determinants
+Nucleoside	Kh_247	4.94849298136e-11	ABX determinants
+Pleuromutilin	Kh_247	0	ABX determinants
+Diaminopyrimidine	Kh_247	1.08547587978e-10	ABX determinants
+Glycopeptide	Kh_247	3.51433444107e-11	ABX determinants
+Lincosamide	Kh_247	5.72100709847e-09	ABX determinants
+Streptogramin	Kh_247	5.50971232363e-09	ABX determinants
+Sulfonamide	Kh_247	0	ABX determinants
+Aminonucleoside	Kh_247	0	ABX determinants
+Aminocoumarin	Kh_247	4.41944268012e-11	ABX determinants
+Miscellaneous	Kh_247	0	ABX determinants
+Rifamycin	Kh_247	1.8091264663e-11	ABX determinants
+Lipopeptide	Kh_247	6.87462730576e-11	ABX determinants
+Fluoroquinolone	Kh_247	1.96543615192e-10	ABX determinants
+Oxazolidinone	Kh_247	0	ABX determinants
+Macrolide	Kh_247	5.58559830087e-09	ABX determinants
+Phenicol	Kh_247	1.05346825769e-09	ABX determinants
+Elfamycin	Kh_247	0	ABX determinants
+Beta-lactam	Kh_247	6.85721410215e-08	ABX determinants
+Peptide	Kh_247	6.54187164485e-11	ABX determinants
+Coumarin	Kh_247	1.06725917946e-09	ABX mutations
+Rifampin	Kh_247	6.46379296149e-10	ABX mutations
+Sulfonamides	Kh_247	0.0	ABX mutations
+Fluoroquinolones	Kh_247	3.63737122472e-09	ABX mutations
+Aminoglycoside	NOV_281	1.37402825352e-08	ABX determinants
+Tetracycline derivative	NOV_281	1.01386793663e-07	ABX determinants
+Nucleoside	NOV_281	1.14584508808e-08	ABX determinants
+Pleuromutilin	NOV_281	0	ABX determinants
+Diaminopyrimidine	NOV_281	9.8476655351e-10	ABX determinants
+Glycopeptide	NOV_281	2.35536587619e-11	ABX determinants
+Lincosamide	NOV_281	5.43880505677e-09	ABX determinants
+Streptogramin	NOV_281	5.631046048e-09	ABX determinants
+Sulfonamide	NOV_281	0	ABX determinants
+Aminonucleoside	NOV_281	0	ABX determinants
+Aminocoumarin	NOV_281	2.62567446184e-10	ABX determinants
+Miscellaneous	NOV_281	0	ABX determinants
+Rifamycin	NOV_281	7.90398315979e-11	ABX determinants
+Lipopeptide	NOV_281	5.28778673703e-10	ABX determinants
+Fluoroquinolone	NOV_281	6.2177434815e-10	ABX determinants
+Oxazolidinone	NOV_281	0	ABX determinants
+Macrolide	NOV_281	8.78038612414e-09	ABX determinants
+Phenicol	NOV_281	1.02866178046e-09	ABX determinants
+Elfamycin	NOV_281	0	ABX determinants
+Beta-lactam	NOV_281	9.43577574071e-09	ABX determinants
+Peptide	NOV_281	8.16603155131e-11	ABX determinants
+Coumarin	NOV_281	2.1000452463e-09	ABX mutations
+Rifampin	NOV_281	1.30765722842e-09	ABX mutations
+Sulfonamides	NOV_281	1.5698943824e-09	ABX mutations
+Fluoroquinolones	NOV_281	1.22404183141e-08	ABX mutations
+Aminoglycoside	OM_192	3.92890378474e-10	ABX determinants
+Tetracycline derivative	OM_192	7.57396332988e-08	ABX determinants
+Nucleoside	OM_192	1.03499274366e-10	ABX determinants
+Pleuromutilin	OM_192	0	ABX determinants
+Diaminopyrimidine	OM_192	4.25682499408e-09	ABX determinants
+Glycopeptide	OM_192	0	ABX determinants
+Lincosamide	OM_192	2.46715028243e-08	ABX determinants
+Streptogramin	OM_192	2.46601551539e-08	ABX determinants
+Sulfonamide	OM_192	0	ABX determinants
+Aminonucleoside	OM_192	0	ABX determinants
+Aminocoumarin	OM_192	6.93893785809e-11	ABX determinants
+Miscellaneous	OM_192	0	ABX determinants
+Rifamycin	OM_192	3.78384443918e-11	ABX determinants
+Lipopeptide	OM_192	7.12488436633e-11	ABX determinants
+Fluoroquinolone	OM_192	9.53565006751e-11	ABX determinants
+Oxazolidinone	OM_192	0	ABX determinants
+Macrolide	OM_192	2.47441819537e-08	ABX determinants
+Phenicol	OM_192	2.56322323077e-09	ABX determinants
+Elfamycin	OM_192	0	ABX determinants
+Beta-lactam	OM_192	3.41232583157e-08	ABX determinants
+Peptide	OM_192	0	ABX determinants
+Coumarin	OM_192	1.29606984837e-09	ABX mutations
+Rifampin	OM_192	4.49230356768e-10	ABX mutations
+Sulfonamides	OM_192	2.96962095872e-10	ABX mutations
+Fluoroquinolones	OM_192	9.17251936555e-09	ABX mutations
+Metals	OMS_251	2.65257094063e-08	Metals
+Biocides	OMS_251	1.51858138635e-08	Biocides
+Metals	RND_308	1.26703222943e-09	Metals
+Biocides	RND_308	1.05979246336e-09	Biocides
+Metals	SAR_265	1.84066673232e-08	Metals
+Biocides	SAR_265	1.04484103567e-08	Biocides
+Aminoglycoside	TAT_146	4.03142449823e-09	ABX determinants
+Tetracycline derivative	TAT_146	1.75992706377e-07	ABX determinants
+Nucleoside	TAT_146	1.10384127188e-09	ABX determinants
+Pleuromutilin	TAT_146	0	ABX determinants
+Diaminopyrimidine	TAT_146	4.21233386825e-08	ABX determinants
+Glycopeptide	TAT_146	7.38428002833e-12	ABX determinants
+Lincosamide	TAT_146	2.29410379078e-09	ABX determinants
+Streptogramin	TAT_146	2.10208695997e-09	ABX determinants
+Sulfonamide	TAT_146	1.35393530997e-10	ABX determinants
+Aminonucleoside	TAT_146	0	ABX determinants
+Aminocoumarin	TAT_146	1.0498501277e-10	ABX determinants
+Miscellaneous	TAT_146	0	ABX determinants
+Rifamycin	TAT_146	7.93588648295e-11	ABX determinants
+Lipopeptide	TAT_146	1.72939346566e-10	ABX determinants
+Fluoroquinolone	TAT_146	5.42257845489e-10	ABX determinants
+Oxazolidinone	TAT_146	0	ABX determinants
+Macrolide	TAT_146	2.30214458582e-09	ABX determinants
+Phenicol	TAT_146	4.35423556436e-09	ABX determinants
+Elfamycin	TAT_146	0	ABX determinants
+Beta-lactam	TAT_146	8.53531148102e-09	ABX determinants
+Peptide	TAT_146	5.76027676572e-11	ABX determinants
+Coumarin	TAT_146	3.8310658342e-09	ABX mutations
+Rifampin	TAT_146	1.08225521941e-09	ABX mutations
+Sulfonamides	TAT_146	0.0	ABX mutations
+Fluoroquinolones	TAT_146	1.62483224001e-08	ABX mutations
+Aminoglycoside	OM_180	6.03373367267e-10	ABX determinants
+Tetracycline derivative	OM_180	1.17663852391e-07	ABX determinants
+Nucleoside	OM_180	4.19189960513e-11	ABX determinants
+Pleuromutilin	OM_180	0	ABX determinants
+Diaminopyrimidine	OM_180	5.51708077062e-10	ABX determinants
+Glycopeptide	OM_180	4.04261924878e-11	ABX determinants
+Lincosamide	OM_180	2.18028137652e-08	ABX determinants
+Streptogramin	OM_180	2.18028137652e-08	ABX determinants
+Sulfonamide	OM_180	0	ABX determinants
+Aminonucleoside	OM_180	0	ABX determinants
+Aminocoumarin	OM_180	1.33199894355e-10	ABX determinants
+Miscellaneous	OM_180	0	ABX determinants
+Rifamycin	OM_180	3.06504487257e-11	ABX determinants
+Lipopeptide	OM_180	2.18001693718e-10	ABX determinants
+Fluoroquinolone	OM_180	3.3313290006e-10	ABX determinants
+Oxazolidinone	OM_180	0	ABX determinants
+Macrolide	OM_180	2.19615273517e-08	ABX determinants
+Phenicol	OM_180	4.1602089828e-09	ABX determinants
+Elfamycin	OM_180	0	ABX determinants
+Beta-lactam	OM_180	1.35717131484e-07	ABX determinants
+Peptide	OM_180	5.54166071735e-11	ABX determinants
+Coumarin	OM_180	4.50057929059e-10	ABX mutations
+Rifampin	OM_180	3.1095784974e-10	ABX mutations
+Sulfonamides	OM_180	1.26691142107e-09	ABX mutations
+Fluoroquinolones	OM_180	2.46997784508e-09	ABX mutations
+Metals	NOV_282	9.89835422376e-09	Metals
+Biocides	NOV_282	7.14312919858e-09	Biocides
+Aminoglycoside	OM_190	4.60022054618e-10	ABX determinants
+Tetracycline derivative	OM_190	6.49050765652e-08	ABX determinants
+Nucleoside	OM_190	3.32900212934e-10	ABX determinants
+Pleuromutilin	OM_190	0	ABX determinants
+Diaminopyrimidine	OM_190	2.92093090058e-09	ABX determinants
+Glycopeptide	OM_190	0	ABX determinants
+Lincosamide	OM_190	2.54177886536e-08	ABX determinants
+Streptogramin	OM_190	2.54059264941e-08	ABX determinants
+Sulfonamide	OM_190	0	ABX determinants
+Aminonucleoside	OM_190	0	ABX determinants
+Aminocoumarin	OM_190	1.13042048734e-10	ABX determinants
+Miscellaneous	OM_190	0	ABX determinants
+Rifamycin	OM_190	4.86821816764e-11	ABX determinants
+Lipopeptide	OM_190	3.30789576932e-10	ABX determinants
+Fluoroquinolone	OM_190	4.3687296717e-10	ABX determinants
+Oxazolidinone	OM_190	0	ABX determinants
+Macrolide	OM_190	2.55678954424e-08	ABX determinants
+Phenicol	OM_190	2.15226100653e-09	ABX determinants
+Elfamycin	OM_190	0	ABX determinants
+Beta-lactam	OM_190	3.70191520342e-08	ABX determinants
+Peptide	OM_190	6.60137481785e-11	ABX determinants
+Coumarin	OM_190	1.18686174674e-09	ABX mutations
+Rifampin	OM_190	5.22607065563e-10	ABX mutations
+Sulfonamides	OM_190	0.0	ABX mutations
+Fluoroquinolones	OM_190	1.2291107537e-08	ABX mutations
+Metals	RND_317	2.7370698442e-09	Metals
+Biocides	RND_317	1.77794185105e-09	Biocides
+Aminoglycoside	TYV_209	1.52053965417e-07	ABX determinants
+Tetracycline derivative	TYV_209	7.8919190881e-08	ABX determinants
+Nucleoside	TYV_209	3.29886495937e-09	ABX determinants
+Pleuromutilin	TYV_209	0	ABX determinants
+Diaminopyrimidine	TYV_209	9.54226801435e-10	ABX determinants
+Glycopeptide	TYV_209	3.19843844348e-10	ABX determinants
+Lincosamide	TYV_209	3.74730249551e-09	ABX determinants
+Streptogramin	TYV_209	3.84385837877e-09	ABX determinants
+Sulfonamide	TYV_209	0	ABX determinants
+Aminonucleoside	TYV_209	0	ABX determinants
+Aminocoumarin	TYV_209	5.81617599151e-11	ABX determinants
+Miscellaneous	TYV_209	0	ABX determinants
+Rifamycin	TYV_209	2.65063000399e-11	ABX determinants
+Lipopeptide	TYV_209	1.63353790579e-10	ABX determinants
+Fluoroquinolone	TYV_209	1.63530425377e-10	ABX determinants
+Oxazolidinone	TYV_209	0	ABX determinants
+Macrolide	TYV_209	4.06815015762e-09	ABX determinants
+Phenicol	TYV_209	9.36560077682e-09	ABX determinants
+Elfamycin	TYV_209	0	ABX determinants
+Beta-lactam	TYV_209	3.22184561993e-09	ABX determinants
+Peptide	TYV_209	0	ABX determinants
+Coumarin	TYV_209	2.30905073998e-09	ABX mutations
+Rifampin	TYV_209	1.3093551849e-09	ABX mutations
+Sulfonamides	TYV_209	4.10401108084e-10	ABX mutations
+Fluoroquinolones	TYV_209	7.79669770039e-09	ABX mutations
+Aminoglycoside	TAT_138	2.74962459226e-09	ABX determinants
+Tetracycline derivative	TAT_138	1.7960190239e-07	ABX determinants
+Nucleoside	TAT_138	1.07599553147e-09	ABX determinants
+Pleuromutilin	TAT_138	0	ABX determinants
+Diaminopyrimidine	TAT_138	3.17158360285e-08	ABX determinants
+Glycopeptide	TAT_138	3.47424957931e-11	ABX determinants
+Lincosamide	TAT_138	2.04201095179e-09	ABX determinants
+Streptogramin	TAT_138	1.94061392519e-09	ABX determinants
+Sulfonamide	TAT_138	1.79113087247e-10	ABX determinants
+Aminonucleoside	TAT_138	0	ABX determinants
+Aminocoumarin	TAT_138	7.65058985589e-11	ABX determinants
+Miscellaneous	TAT_138	0	ABX determinants
+Rifamycin	TAT_138	4.91718388039e-11	ABX determinants
+Lipopeptide	TAT_138	2.15027162458e-10	ABX determinants
+Fluoroquinolone	TAT_138	2.47975634313e-10	ABX determinants
+Oxazolidinone	TAT_138	0	ABX determinants
+Macrolide	TAT_138	2.06998472332e-09	ABX determinants
+Phenicol	TAT_138	3.60593484562e-09	ABX determinants
+Elfamycin	TAT_138	0	ABX determinants
+Beta-lactam	TAT_138	7.04573609556e-09	ABX determinants
+Peptide	TAT_138	0	ABX determinants
+Coumarin	TAT_138	3.53812052292e-09	ABX mutations
+Rifampin	TAT_138	1.06389810814e-09	ABX mutations
+Sulfonamides	TAT_138	1.92094192941e-10	ABX mutations
+Fluoroquinolones	TAT_138	1.61257371288e-08	ABX mutations
+Metals	SAR_268	7.85334888514e-10	Metals
+Biocides	SAR_268	8.34394169926e-10	Biocides
+Aminoglycoside	TYV_206	2.03479494856e-09	ABX determinants
+Tetracycline derivative	TYV_206	1.08716088404e-07	ABX determinants
+Nucleoside	TYV_206	5.99640240417e-11	ABX determinants
+Pleuromutilin	TYV_206	0	ABX determinants
+Diaminopyrimidine	TYV_206	1.97606229983e-09	ABX determinants
+Glycopeptide	TYV_206	6.09727646331e-11	ABX determinants
+Lincosamide	TYV_206	7.79147723856e-09	ABX determinants
+Streptogramin	TYV_206	7.85917640878e-09	ABX determinants
+Sulfonamide	TYV_206	3.99270857756e-11	ABX determinants
+Aminonucleoside	TYV_206	0	ABX determinants
+Aminocoumarin	TYV_206	8.69559704524e-11	ABX determinants
+Miscellaneous	TYV_206	0	ABX determinants
+Rifamycin	TYV_206	6.57669941103e-11	ABX determinants
+Lipopeptide	TYV_206	1.25257138327e-10	ABX determinants
+Fluoroquinolone	TYV_206	2.36743357912e-10	ABX determinants
+Oxazolidinone	TYV_206	0	ABX determinants
+Macrolide	TYV_206	7.99339546165e-09	ABX determinants
+Phenicol	TYV_206	5.09295966201e-09	ABX determinants
+Elfamycin	TYV_206	0	ABX determinants
+Beta-lactam	TYV_206	2.01015894623e-09	ABX determinants
+Peptide	TYV_206	0	ABX determinants
+Coumarin	TYV_206	1.57210625234e-09	ABX mutations
+Rifampin	TYV_206	6.68891991882e-10	ABX mutations
+Sulfonamides	TYV_206	6.67992804376e-10	ABX mutations
+Fluoroquinolones	TYV_206	4.0399581317e-09	ABX mutations
+Aminoglycoside	RND_316	4.24048727851e-09	ABX determinants
+Tetracycline derivative	RND_316	9.85007015958e-08	ABX determinants
+Nucleoside	RND_316	6.8496815984e-10	ABX determinants
+Pleuromutilin	RND_316	0	ABX determinants
+Diaminopyrimidine	RND_316	9.07766943013e-10	ABX determinants
+Glycopeptide	RND_316	4.77792333508e-11	ABX determinants
+Lincosamide	RND_316	7.12066610917e-09	ABX determinants
+Streptogramin	RND_316	6.67544750639e-09	ABX determinants
+Sulfonamide	RND_316	1.95787452161e-11	ABX determinants
+Aminonucleoside	RND_316	0	ABX determinants
+Aminocoumarin	RND_316	9.81980544941e-11	ABX determinants
+Miscellaneous	RND_316	0	ABX determinants
+Rifamycin	RND_316	2.08682055865e-11	ABX determinants
+Lipopeptide	RND_316	4.94865356457e-10	ABX determinants
+Fluoroquinolone	RND_316	4.58898586234e-10	ABX determinants
+Oxazolidinone	RND_316	0	ABX determinants
+Macrolide	RND_316	7.87405086634e-09	ABX determinants
+Phenicol	RND_316	1.38334165856e-09	ABX determinants
+Elfamycin	RND_316	0	ABX determinants
+Beta-lactam	RND_316	4.91714507171e-09	ABX determinants
+Peptide	RND_316	9.43253035016e-11	ABX determinants
+Coumarin	RND_316	1.15373272578e-09	ABX mutations
+Rifampin	RND_316	1.23134091431e-09	ABX mutations
+Sulfonamides	RND_316	1.61036086309e-10	ABX mutations
+Fluoroquinolones	RND_316	8.64531994044e-09	ABX mutations
+Aminoglycoside	SAR_271	1.81802540849e-08	ABX determinants
+Tetracycline derivative	SAR_271	9.88520900266e-08	ABX determinants
+Nucleoside	SAR_271	4.3925787198e-11	ABX determinants
+Pleuromutilin	SAR_271	0	ABX determinants
+Diaminopyrimidine	SAR_271	3.25458201518e-10	ABX determinants
+Glycopeptide	SAR_271	3.61227691544e-10	ABX determinants
+Lincosamide	SAR_271	8.6263312766e-10	ABX determinants
+Streptogramin	SAR_271	7.09438252733e-10	ABX determinants
+Sulfonamide	SAR_271	0	ABX determinants
+Aminonucleoside	SAR_271	0	ABX determinants
+Aminocoumarin	SAR_271	1.81609512766e-10	ABX determinants
+Miscellaneous	SAR_271	0	ABX determinants
+Rifamycin	SAR_271	7.74900479804e-11	ABX determinants
+Lipopeptide	SAR_271	5.67805683113e-10	ABX determinants
+Fluoroquinolone	SAR_271	7.66941949204e-10	ABX determinants
+Oxazolidinone	SAR_271	0	ABX determinants
+Macrolide	SAR_271	9.44195216953e-10	ABX determinants
+Phenicol	SAR_271	1.20063458923e-07	ABX determinants
+Elfamycin	SAR_271	0	ABX determinants
+Beta-lactam	SAR_271	1.81775091653e-08	ABX determinants
+Peptide	SAR_271	8.40621079428e-11	ABX determinants
+Coumarin	SAR_271	1.14822084523e-09	ABX mutations
+Rifampin	SAR_271	1.5595490436e-10	ABX mutations
+Sulfonamides	SAR_271	2.56590582832e-10	ABX mutations
+Fluoroquinolones	SAR_271	5.72964158547e-09	ABX mutations
+Metals	TYV_211	4.14739083824e-09	Metals
+Biocides	TYV_211	3.52886320158e-09	Biocides
+Metals	SAR_274	1.12554054475e-08	Metals
+Biocides	SAR_274	7.54921906089e-09	Biocides
+Metals	OM_176	2.22634710915e-08	Metals
+Biocides	OM_176	1.39268610391e-08	Biocides
+Aminoglycoside	Spb_98_38P	6.7211580074e-09	ABX determinants
+Tetracycline derivative	Spb_98_38P	1.30582171899e-07	ABX determinants
+Nucleoside	Spb_98_38P	3.15701167747e-09	ABX determinants
+Pleuromutilin	Spb_98_38P	0	ABX determinants
+Diaminopyrimidine	Spb_98_38P	1.10090663625e-08	ABX determinants
+Glycopeptide	Spb_98_38P	0	ABX determinants
+Lincosamide	Spb_98_38P	6.29951223693e-09	ABX determinants
+Streptogramin	Spb_98_38P	6.01854431333e-09	ABX determinants
+Sulfonamide	Spb_98_38P	0	ABX determinants
+Aminonucleoside	Spb_98_38P	0	ABX determinants
+Aminocoumarin	Spb_98_38P	2.16299742211e-10	ABX determinants
+Miscellaneous	Spb_98_38P	0	ABX determinants
+Rifamycin	Spb_98_38P	1.02771441737e-10	ABX determinants
+Lipopeptide	Spb_98_38P	6.44211317014e-10	ABX determinants
+Fluoroquinolone	Spb_98_38P	1.11579474088e-09	ABX determinants
+Oxazolidinone	Spb_98_38P	0	ABX determinants
+Macrolide	Spb_98_38P	6.58758591266e-09	ABX determinants
+Phenicol	Spb_98_38P	3.21139985585e-09	ABX determinants
+Elfamycin	Spb_98_38P	0	ABX determinants
+Beta-lactam	Spb_98_38P	6.70220931414e-09	ABX determinants
+Peptide	Spb_98_38P	0	ABX determinants
+Coumarin	Spb_98_38P	1.59854164039e-09	ABX mutations
+Rifampin	Spb_98_38P	2.42389080424e-09	ABX mutations
+Sulfonamides	Spb_98_38P	0.0	ABX mutations
+Fluoroquinolones	Spb_98_38P	2.08913382381e-08	ABX mutations
+Metals	NOV_280	1.1235148323e-07	Metals
+Biocides	NOV_280	7.49382379574e-08	Biocides
+Aminoglycoside	Spb_76_16P	1.43144638957e-08	ABX determinants
+Tetracycline derivative	Spb_76_16P	1.08053613632e-07	ABX determinants
+Nucleoside	Spb_76_16P	1.06139023372e-09	ABX determinants
+Pleuromutilin	Spb_76_16P	0	ABX determinants
+Diaminopyrimidine	Spb_76_16P	2.20684678932e-09	ABX determinants
+Glycopeptide	Spb_76_16P	3.28794651298e-11	ABX determinants
+Lincosamide	Spb_76_16P	2.06033376884e-08	ABX determinants
+Streptogramin	Spb_76_16P	1.87345542494e-08	ABX determinants
+Sulfonamide	Spb_76_16P	6.46173364644e-10	ABX determinants
+Aminonucleoside	Spb_76_16P	0	ABX determinants
+Aminocoumarin	Spb_76_16P	1.49707401397e-08	ABX determinants
+Miscellaneous	Spb_76_16P	0	ABX determinants
+Rifamycin	Spb_76_16P	9.4266696633e-09	ABX determinants
+Lipopeptide	Spb_76_16P	3.65186021761e-08	ABX determinants
+Fluoroquinolone	Spb_76_16P	5.98433514998e-08	ABX determinants
+Oxazolidinone	Spb_76_16P	0	ABX determinants
+Macrolide	Spb_76_16P	3.83711424186e-08	ABX determinants
+Phenicol	Spb_76_16P	1.62866269638e-08	ABX determinants
+Elfamycin	Spb_76_16P	0	ABX determinants
+Beta-lactam	Spb_76_16P	8.087717681e-08	ABX determinants
+Peptide	Spb_76_16P	6.35544480168e-09	ABX determinants
+Coumarin	Spb_76_16P	3.11156312581e-09	ABX mutations
+Rifampin	Spb_76_16P	2.67137561913e-09	ABX mutations
+Sulfonamides	Spb_76_16P	1.57645499983e-08	ABX mutations
+Fluoroquinolones	Spb_76_16P	2.02945651012e-08	ABX mutations
+Metals	SAR_272	4.99563063823e-09	Metals
+Biocides	SAR_272	2.92336332931e-09	Biocides
+Metals	RND_314	5.14120477997e-09	Metals
+Biocides	RND_314	2.32992340444e-09	Biocides
+Metals	Spb_103_43P	6.11441756468e-09	Metals
+Biocides	Spb_103_43P	1.77651084754e-09	Biocides
+Metals	RND_315	9.31370980203e-10	Metals
+Biocides	RND_315	5.81116375265e-10	Biocides
+Aminoglycoside	RND_307	6.81358450418e-08	ABX determinants
+Tetracycline derivative	RND_307	1.43346540796e-07	ABX determinants
+Nucleoside	RND_307	1.04048434622e-08	ABX determinants
+Pleuromutilin	RND_307	0	ABX determinants
+Diaminopyrimidine	RND_307	4.42274099318e-09	ABX determinants
+Glycopeptide	RND_307	2.59070328488e-10	ABX determinants
+Lincosamide	RND_307	2.0517395901e-08	ABX determinants
+Streptogramin	RND_307	2.04957828363e-08	ABX determinants
+Sulfonamide	RND_307	0	ABX determinants
+Aminonucleoside	RND_307	0	ABX determinants
+Aminocoumarin	RND_307	3.46766496359e-11	ABX determinants
+Miscellaneous	RND_307	0	ABX determinants
+Rifamycin	RND_307	0	ABX determinants
+Lipopeptide	RND_307	1.65458518808e-10	ABX determinants
+Fluoroquinolone	RND_307	1.04903317162e-10	ABX determinants
+Oxazolidinone	RND_307	0	ABX determinants
+Macrolide	RND_307	2.09907217265e-08	ABX determinants
+Phenicol	RND_307	2.75545857335e-09	ABX determinants
+Elfamycin	RND_307	0	ABX determinants
+Beta-lactam	RND_307	1.59881522884e-08	ABX determinants
+Peptide	RND_307	0	ABX determinants
+Coumarin	RND_307	2.34367705171e-09	ABX mutations
+Rifampin	RND_307	1.2406307356e-09	ABX mutations
+Sulfonamides	RND_307	0.0	ABX mutations
+Fluoroquinolones	RND_307	9.53626538037e-09	ABX mutations
+Metals	SAR_271	2.4665141443e-09	Metals
+Biocides	SAR_271	1.45419654189e-09	Biocides
+Metals	RND_316	1.78908662881e-09	Metals
+Biocides	RND_316	2.00369974054e-09	Biocides
+Metals	Kh_232	4.97423317016e-09	Metals
+Biocides	Kh_232	2.79975958215e-09	Biocides
+Metals	TYV_205	1.02875448677e-09	Metals
+Biocides	TYV_205	3.39495482895e-10	Biocides
+Aminoglycoside	Spb_70_10P	5.0141831417e-09	ABX determinants
+Tetracycline derivative	Spb_70_10P	1.24634150567e-07	ABX determinants
+Nucleoside	Spb_70_10P	1.42965192518e-10	ABX determinants
+Pleuromutilin	Spb_70_10P	0	ABX determinants
+Diaminopyrimidine	Spb_70_10P	1.97287225752e-09	ABX determinants
+Glycopeptide	Spb_70_10P	5.57912946414e-11	ABX determinants
+Lincosamide	Spb_70_10P	2.97886429969e-08	ABX determinants
+Streptogramin	Spb_70_10P	2.99089716766e-08	ABX determinants
+Sulfonamide	Spb_70_10P	1.84953780571e-10	ABX determinants
+Aminonucleoside	Spb_70_10P	0	ABX determinants
+Aminocoumarin	Spb_70_10P	2.08605411609e-10	ABX determinants
+Miscellaneous	Spb_70_10P	0	ABX determinants
+Rifamycin	Spb_70_10P	5.22668445766e-11	ABX determinants
+Lipopeptide	Spb_70_10P	8.36352963927e-10	ABX determinants
+Fluoroquinolone	Spb_70_10P	1.08809392135e-09	ABX determinants
+Oxazolidinone	Spb_70_10P	0	ABX determinants
+Macrolide	Spb_70_10P	3.10516116744e-08	ABX determinants
+Phenicol	Spb_70_10P	2.3341554527e-09	ABX determinants
+Elfamycin	Spb_70_10P	0	ABX determinants
+Beta-lactam	Spb_70_10P	1.26117740517e-07	ABX determinants
+Peptide	Spb_70_10P	1.09985943585e-10	ABX determinants
+Coumarin	Spb_70_10P	1.8368200871e-10	ABX mutations
+Rifampin	Spb_70_10P	1.01610402304e-09	ABX mutations
+Sulfonamides	Spb_70_10P	3.66680917376e-10	ABX mutations
+Fluoroquinolones	Spb_70_10P	1.27427017386e-08	ABX mutations
+Aminoglycoside	OM_184	2.09643581947e-10	ABX determinants
+Tetracycline derivative	OM_184	8.45877722422e-08	ABX determinants
+Nucleoside	OM_184	0	ABX determinants
+Pleuromutilin	OM_184	0	ABX determinants
+Diaminopyrimidine	OM_184	1.23891656589e-08	ABX determinants
+Glycopeptide	OM_184	0	ABX determinants
+Lincosamide	OM_184	2.79181755923e-09	ABX determinants
+Streptogramin	OM_184	4.00463773384e-09	ABX determinants
+Sulfonamide	OM_184	3.24200511059e-11	ABX determinants
+Aminonucleoside	OM_184	0	ABX determinants
+Aminocoumarin	OM_184	1.97830275146e-10	ABX determinants
+Miscellaneous	OM_184	0	ABX determinants
+Rifamycin	OM_184	3.5601050744e-11	ABX determinants
+Lipopeptide	OM_184	5.37820278465e-10	ABX determinants
+Fluoroquinolone	OM_184	5.6708723545e-10	ABX determinants
+Oxazolidinone	OM_184	0	ABX determinants
+Macrolide	OM_184	4.91111705229e-09	ABX determinants
+Phenicol	OM_184	8.83670846502e-09	ABX determinants
+Elfamycin	OM_184	0	ABX determinants
+Beta-lactam	OM_184	3.21800250948e-08	ABX determinants
+Peptide	OM_184	1.28734783735e-10	ABX determinants
+Coumarin	OM_184	1.21341998779e-09	ABX mutations
+Rifampin	OM_184	1.34602309786e-09	ABX mutations
+Sulfonamides	OM_184	7.72051575915e-10	ABX mutations
+Fluoroquinolones	OM_184	1.63226638279e-08	ABX mutations
+Aminoglycoside	Kh_236	5.47447979102e-09	ABX determinants
+Tetracycline derivative	Kh_236	5.83979909854e-08	ABX determinants
+Nucleoside	Kh_236	2.34024432132e-09	ABX determinants
+Pleuromutilin	Kh_236	0	ABX determinants
+Diaminopyrimidine	Kh_236	1.60419973639e-09	ABX determinants
+Glycopeptide	Kh_236	1.98689094027e-10	ABX determinants
+Lincosamide	Kh_236	5.92405046183e-08	ABX determinants
+Streptogramin	Kh_236	9.54598048726e-09	ABX determinants
+Sulfonamide	Kh_236	1.08212031722e-10	ABX determinants
+Aminonucleoside	Kh_236	0	ABX determinants
+Aminocoumarin	Kh_236	8.5473713697e-10	ABX determinants
+Miscellaneous	Kh_236	0	ABX determinants
+Rifamycin	Kh_236	3.32722908288e-10	ABX determinants
+Lipopeptide	Kh_236	3.10717940514e-09	ABX determinants
+Fluoroquinolone	Kh_236	4.25351933114e-09	ABX determinants
+Oxazolidinone	Kh_236	0	ABX determinants
+Macrolide	Kh_236	1.13788866887e-08	ABX determinants
+Phenicol	Kh_236	1.11083965485e-08	ABX determinants
+Elfamycin	Kh_236	0	ABX determinants
+Beta-lactam	Kh_236	2.04517952994e-08	ABX determinants
+Peptide	Kh_236	1.08127298088e-09	ABX determinants
+Coumarin	Kh_236	1.32595676911e-08	ABX mutations
+Rifampin	Kh_236	2.73319729014e-09	ABX mutations
+Sulfonamides	Kh_236	0.0	ABX mutations
+Fluoroquinolones	Kh_236	1.88097291722e-08	ABX mutations
+Aminoglycoside	RND_317	1.64719797995e-09	ABX determinants
+Tetracycline derivative	RND_317	7.20872955523e-08	ABX determinants
+Nucleoside	RND_317	1.03346763739e-10	ABX determinants
+Pleuromutilin	RND_317	0	ABX determinants
+Diaminopyrimidine	RND_317	4.25055237957e-10	ABX determinants
+Glycopeptide	RND_317	3.80725544452e-09	ABX determinants
+Lincosamide	RND_317	7.92526322282e-09	ABX determinants
+Streptogramin	RND_317	6.67091242075e-09	ABX determinants
+Sulfonamide	RND_317	5.16101341559e-11	ABX determinants
+Aminonucleoside	RND_317	0	ABX determinants
+Aminocoumarin	RND_317	2.31506025694e-10	ABX determinants
+Miscellaneous	RND_317	0	ABX determinants
+Rifamycin	RND_317	1.2279373541e-10	ABX determinants
+Lipopeptide	RND_317	6.8684654923e-10	ABX determinants
+Fluoroquinolone	RND_317	7.28934315293e-10	ABX determinants
+Oxazolidinone	RND_317	0	ABX determinants
+Macrolide	RND_317	7.11223793244e-09	ABX determinants
+Phenicol	RND_317	4.82843671756e-09	ABX determinants
+Elfamycin	RND_317	0	ABX determinants
+Beta-lactam	RND_317	5.90642282299e-09	ABX determinants
+Peptide	RND_317	1.19545709695e-10	ABX determinants
+Coumarin	RND_317	2.30029414996e-09	ABX mutations
+Rifampin	RND_317	1.11771248442e-09	ABX mutations
+Sulfonamides	RND_317	1.99139584477e-09	ABX mutations
+Fluoroquinolones	RND_317	1.32507153918e-08	ABX mutations
+Aminoglycoside	SAR_265	8.54314645395e-10	ABX determinants
+Tetracycline derivative	SAR_265	5.68275530466e-08	ABX determinants
+Nucleoside	SAR_265	1.05591102608e-10	ABX determinants
+Pleuromutilin	SAR_265	0	ABX determinants
+Diaminopyrimidine	SAR_265	1.56342955152e-09	ABX determinants
+Glycopeptide	SAR_265	1.5502130418e-10	ABX determinants
+Lincosamide	SAR_265	5.38475507871e-09	ABX determinants
+Streptogramin	SAR_265	4.48467656478e-09	ABX determinants
+Sulfonamide	SAR_265	0	ABX determinants
+Aminonucleoside	SAR_265	0	ABX determinants
+Aminocoumarin	SAR_265	1.49887746327e-09	ABX determinants
+Miscellaneous	SAR_265	0	ABX determinants
+Rifamycin	SAR_265	7.33460777254e-10	ABX determinants
+Lipopeptide	SAR_265	3.4503303532e-09	ABX determinants
+Fluoroquinolone	SAR_265	5.77853657426e-09	ABX determinants
+Oxazolidinone	SAR_265	0	ABX determinants
+Macrolide	SAR_265	6.46058293441e-09	ABX determinants
+Phenicol	SAR_265	2.72739191692e-09	ABX determinants
+Elfamycin	SAR_265	0	ABX determinants
+Beta-lactam	SAR_265	8.46738847557e-09	ABX determinants
+Peptide	SAR_265	9.77134674923e-10	ABX determinants
+Coumarin	SAR_265	9.51595584544e-10	ABX mutations
+Rifampin	SAR_265	6.15520362657e-10	ABX mutations
+Sulfonamides	SAR_265	0.0	ABX mutations
+Fluoroquinolones	SAR_265	4.61120590209e-09	ABX mutations
+Metals	OM_180	1.12555660128e-09	Metals
+Biocides	OM_180	6.10552286554e-10	Biocides
+Aminoglycoside	TAT_143	4.4645709053e-09	ABX determinants
+Tetracycline derivative	TAT_143	1.84013330434e-07	ABX determinants
+Nucleoside	TAT_143	1.67176226882e-09	ABX determinants
+Pleuromutilin	TAT_143	1.37350471092e-11	ABX determinants
+Diaminopyrimidine	TAT_143	4.04544213132e-08	ABX determinants
+Glycopeptide	TAT_143	7.14185750045e-11	ABX determinants
+Lincosamide	TAT_143	1.96703971552e-09	ABX determinants
+Streptogramin	TAT_143	1.79609834756e-09	ABX determinants
+Sulfonamide	TAT_143	1.59020576017e-10	ABX determinants
+Aminonucleoside	TAT_143	0	ABX determinants
+Aminocoumarin	TAT_143	2.14101422938e-10	ABX determinants
+Miscellaneous	TAT_143	0	ABX determinants
+Rifamycin	TAT_143	7.24947213999e-11	ABX determinants
+Lipopeptide	TAT_143	3.92570183773e-10	ABX determinants
+Fluoroquinolone	TAT_143	5.98301135522e-10	ABX determinants
+Oxazolidinone	TAT_143	1.37350471092e-11	ABX determinants
+Macrolide	TAT_143	2.028427733e-09	ABX determinants
+Phenicol	TAT_143	3.48733944649e-09	ABX determinants
+Elfamycin	TAT_143	0	ABX determinants
+Beta-lactam	TAT_143	8.21379503678e-09	ABX determinants
+Peptide	TAT_143	7.01605565577e-11	ABX determinants
+Coumarin	TAT_143	5.00849790684e-09	ABX mutations
+Rifampin	TAT_143	1.19008552931e-09	ABX mutations
+Sulfonamides	TAT_143	0.0	ABX mutations
+Fluoroquinolones	TAT_143	1.61410518237e-08	ABX mutations
+Aminoglycoside	TAT_134	3.32745509678e-09	ABX determinants
+Tetracycline derivative	TAT_134	1.8038114101e-07	ABX determinants
+Nucleoside	TAT_134	7.89451621669e-10	ABX determinants
+Pleuromutilin	TAT_134	0	ABX determinants
+Diaminopyrimidine	TAT_134	3.54998567938e-08	ABX determinants
+Glycopeptide	TAT_134	0	ABX determinants
+Lincosamide	TAT_134	1.47295668944e-09	ABX determinants
+Streptogramin	TAT_134	1.35131150247e-09	ABX determinants
+Sulfonamide	TAT_134	8.76094822905e-11	ABX determinants
+Aminonucleoside	TAT_134	0	ABX determinants
+Aminocoumarin	TAT_134	9.09884558886e-11	ABX determinants
+Miscellaneous	TAT_134	0	ABX determinants
+Rifamycin	TAT_134	6.41370493112e-11	ABX determinants
+Lipopeptide	TAT_134	9.21601044095e-11	ABX determinants
+Fluoroquinolone	TAT_134	2.89105220564e-10	ABX determinants
+Oxazolidinone	TAT_134	0	ABX determinants
+Macrolide	TAT_134	1.50704142795e-09	ABX determinants
+Phenicol	TAT_134	4.13762183971e-09	ABX determinants
+Elfamycin	TAT_134	0	ABX determinants
+Beta-lactam	TAT_134	7.11920991247e-09	ABX determinants
+Peptide	TAT_134	0	ABX determinants
+Coumarin	TAT_134	3.89752625236e-09	ABX mutations
+Rifampin	TAT_134	7.55917241545e-10	ABX mutations
+Sulfonamides	TAT_134	0.0	ABX mutations
+Fluoroquinolones	TAT_134	1.3753589887e-08	ABX mutations
+Aminoglycoside	Spb_61_1P	8.66902529822e-09	ABX determinants
+Tetracycline derivative	Spb_61_1P	1.29925790361e-07	ABX determinants
+Nucleoside	Spb_61_1P	3.76306010651e-10	ABX determinants
+Pleuromutilin	Spb_61_1P	0	ABX determinants
+Diaminopyrimidine	Spb_61_1P	4.14159414377e-09	ABX determinants
+Glycopeptide	Spb_61_1P	0	ABX determinants
+Lincosamide	Spb_61_1P	2.68748875804e-08	ABX determinants
+Streptogramin	Spb_61_1P	2.69183785944e-08	ABX determinants
+Sulfonamide	Spb_61_1P	1.21706581328e-10	ABX determinants
+Aminonucleoside	Spb_61_1P	0	ABX determinants
+Aminocoumarin	Spb_61_1P	5.91814400364e-10	ABX determinants
+Miscellaneous	Spb_61_1P	0	ABX determinants
+Rifamycin	Spb_61_1P	3.78329161246e-10	ABX determinants
+Lipopeptide	Spb_61_1P	1.967411084e-09	ABX determinants
+Fluoroquinolone	Spb_61_1P	3.10734106395e-09	ABX determinants
+Oxazolidinone	Spb_61_1P	0	ABX determinants
+Macrolide	Spb_61_1P	2.93960719562e-08	ABX determinants
+Phenicol	Spb_61_1P	2.82855078417e-09	ABX determinants
+Elfamycin	Spb_61_1P	0	ABX determinants
+Beta-lactam	Spb_61_1P	1.03849688542e-07	ABX determinants
+Peptide	Spb_61_1P	3.10921126662e-10	ABX determinants
+Coumarin	Spb_61_1P	4.84882077712e-10	ABX mutations
+Rifampin	Spb_61_1P	1.07463666142e-09	ABX mutations
+Sulfonamides	Spb_61_1P	4.11520353661e-10	ABX mutations
+Fluoroquinolones	Spb_61_1P	1.48715015437e-08	ABX mutations
+Aminoglycoside	RND_315	1.39333073619e-08	ABX determinants
+Tetracycline derivative	RND_315	1.13018004925e-07	ABX determinants
+Nucleoside	RND_315	2.29552669137e-09	ABX determinants
+Pleuromutilin	RND_315	0	ABX determinants
+Diaminopyrimidine	RND_315	2.25722535614e-09	ABX determinants
+Glycopeptide	RND_315	1.61702910335e-10	ABX determinants
+Lincosamide	RND_315	1.88707139795e-08	ABX determinants
+Streptogramin	RND_315	1.74248102076e-08	ABX determinants
+Sulfonamide	RND_315	0	ABX determinants
+Aminonucleoside	RND_315	0	ABX determinants
+Aminocoumarin	RND_315	9.13858134404e-11	ABX determinants
+Miscellaneous	RND_315	0	ABX determinants
+Rifamycin	RND_315	2.89387866172e-11	ABX determinants
+Lipopeptide	RND_315	3.55653240945e-10	ABX determinants
+Fluoroquinolone	RND_315	1.90017966896e-10	ABX determinants
+Oxazolidinone	RND_315	0	ABX determinants
+Macrolide	RND_315	1.7912971216e-08	ABX determinants
+Phenicol	RND_315	5.81001792853e-10	ABX determinants
+Elfamycin	RND_315	0	ABX determinants
+Beta-lactam	RND_315	1.93060124688e-08	ABX determinants
+Peptide	RND_315	0	ABX determinants
+Coumarin	RND_315	9.84907264232e-10	ABX mutations
+Rifampin	RND_315	6.64406660465e-10	ABX mutations
+Sulfonamides	RND_315	4.7765476471e-10	ABX mutations
+Fluoroquinolones	RND_315	9.44907679812e-09	ABX mutations
+Metals	TYV_207	1.25559903941e-09	Metals
+Biocides	TYV_207	7.68905086034e-10	Biocides
+Metals	RND_306	1.58100857012e-09	Metals
+Biocides	RND_306	3.90792351451e-11	Biocides
+Metals	Spb_61_1P	1.31674279751e-08	Metals
+Biocides	Spb_61_1P	7.29937744598e-09	Biocides
+Metals	SAR_275	1.40907946558e-09	Metals
+Biocides	SAR_275	1.28474632959e-09	Biocides
+Aminoglycoside	NOV_280	7.37139381956e-09	ABX determinants
+Tetracycline derivative	NOV_280	1.22345635951e-07	ABX determinants
+Nucleoside	NOV_280	4.74264288909e-10	ABX determinants
+Pleuromutilin	NOV_280	0	ABX determinants
+Diaminopyrimidine	NOV_280	5.75884326122e-10	ABX determinants
+Glycopeptide	NOV_280	0	ABX determinants
+Lincosamide	NOV_280	1.58186103759e-08	ABX determinants
+Streptogramin	NOV_280	1.71155942082e-08	ABX determinants
+Sulfonamide	NOV_280	0	ABX determinants
+Aminonucleoside	NOV_280	0	ABX determinants
+Aminocoumarin	NOV_280	1.52443785501e-08	ABX determinants
+Miscellaneous	NOV_280	0	ABX determinants
+Rifamycin	NOV_280	4.68964316957e-09	ABX determinants
+Lipopeptide	NOV_280	4.33271570394e-08	ABX determinants
+Fluoroquinolone	NOV_280	4.81597343634e-08	ABX determinants
+Oxazolidinone	NOV_280	0	ABX determinants
+Macrolide	NOV_280	3.61160493451e-08	ABX determinants
+Phenicol	NOV_280	5.26735761949e-09	ABX determinants
+Elfamycin	NOV_280	0	ABX determinants
+Beta-lactam	NOV_280	4.97579737021e-08	ABX determinants
+Peptide	NOV_280	7.68043067142e-09	ABX determinants
+Coumarin	NOV_280	1.07494000218e-09	ABX mutations
+Rifampin	NOV_280	6.85942703525e-10	ABX mutations
+Sulfonamides	NOV_280	5.29159140501e-10	ABX mutations
+Fluoroquinolones	NOV_280	8.49829235502e-09	ABX mutations
+Aminoglycoside	SAR_268	3.63079545548e-10	ABX determinants
+Tetracycline derivative	SAR_268	9.66510199664e-08	ABX determinants
+Nucleoside	SAR_268	2.61260535584e-11	ABX determinants
+Pleuromutilin	SAR_268	0	ABX determinants
+Diaminopyrimidine	SAR_268	1.37541030346e-09	ABX determinants
+Glycopeptide	SAR_268	0	ABX determinants
+Lincosamide	SAR_268	2.86440042046e-09	ABX determinants
+Streptogramin	SAR_268	2.7509751982e-09	ABX determinants
+Sulfonamide	SAR_268	1.73960503498e-11	ABX determinants
+Aminonucleoside	SAR_268	0	ABX determinants
+Aminocoumarin	SAR_268	8.39110353797e-11	ABX determinants
+Miscellaneous	SAR_268	0	ABX determinants
+Rifamycin	SAR_268	3.82058417628e-11	ABX determinants
+Lipopeptide	SAR_268	1.72396215282e-10	ABX determinants
+Fluoroquinolone	SAR_268	2.66648337108e-10	ABX determinants
+Oxazolidinone	SAR_268	0	ABX determinants
+Macrolide	SAR_268	2.87038848123e-09	ABX determinants
+Phenicol	SAR_268	3.58169785652e-09	ABX determinants
+Elfamycin	SAR_268	0	ABX determinants
+Beta-lactam	SAR_268	6.44454415603e-09	ABX determinants
+Peptide	SAR_268	6.90769046696e-11	ABX determinants
+Coumarin	SAR_268	8.92065362112e-10	ABX mutations
+Rifampin	SAR_268	1.71169951353e-10	ABX mutations
+Sulfonamides	SAR_268	1.43519203729e-10	ABX mutations
+Fluoroquinolones	SAR_268	2.49983946015e-09	ABX mutations
+Aminoglycoside	OM_191	5.24309708571e-10	ABX determinants
+Tetracycline derivative	OM_191	7.09566035838e-08	ABX determinants
+Nucleoside	OM_191	6.54831258965e-10	ABX determinants
+Pleuromutilin	OM_191	0	ABX determinants
+Diaminopyrimidine	OM_191	5.18131461587e-09	ABX determinants
+Glycopeptide	OM_191	0	ABX determinants
+Lincosamide	OM_191	1.88607160307e-08	ABX determinants
+Streptogramin	OM_191	1.87624713083e-08	ABX determinants
+Sulfonamide	OM_191	0	ABX determinants
+Aminonucleoside	OM_191	0	ABX determinants
+Aminocoumarin	OM_191	1.71000482372e-11	ABX determinants
+Miscellaneous	OM_191	0	ABX determinants
+Rifamycin	OM_191	1.71000482372e-11	ABX determinants
+Lipopeptide	OM_191	7.51617450204e-11	ABX determinants
+Fluoroquinolone	OM_191	1.09493188365e-10	ABX determinants
+Oxazolidinone	OM_191	0	ABX determinants
+Macrolide	OM_191	1.88412874091e-08	ABX determinants
+Phenicol	OM_191	3.53486550614e-09	ABX determinants
+Elfamycin	OM_191	0	ABX determinants
+Beta-lactam	OM_191	1.90030532688e-08	ABX determinants
+Peptide	OM_191	3.09172196561e-11	ABX determinants
+Coumarin	OM_191	1.83810056448e-09	ABX mutations
+Rifampin	OM_191	3.43800397657e-10	ABX mutations
+Sulfonamides	OM_191	2.58499732813e-10	ABX mutations
+Fluoroquinolones	OM_191	9.12606394092e-09	ABX mutations
+Aminoglycoside	SAR_272	4.98933573506e-10	ABX determinants
+Tetracycline derivative	SAR_272	1.13181719971e-07	ABX determinants
+Nucleoside	SAR_272	0	ABX determinants
+Pleuromutilin	SAR_272	0	ABX determinants
+Diaminopyrimidine	SAR_272	2.7521971181e-09	ABX determinants
+Glycopeptide	SAR_272	0	ABX determinants
+Lincosamide	SAR_272	1.41206735661e-08	ABX determinants
+Streptogramin	SAR_272	1.36788300785e-08	ABX determinants
+Sulfonamide	SAR_272	0	ABX determinants
+Aminonucleoside	SAR_272	0	ABX determinants
+Aminocoumarin	SAR_272	3.28447115087e-10	ABX determinants
+Miscellaneous	SAR_272	0	ABX determinants
+Rifamycin	SAR_272	1.27416533245e-10	ABX determinants
+Lipopeptide	SAR_272	8.26610093645e-10	ABX determinants
+Fluoroquinolone	SAR_272	9.03388086972e-10	ABX determinants
+Oxazolidinone	SAR_272	0	ABX determinants
+Macrolide	SAR_272	1.44805574297e-08	ABX determinants
+Phenicol	SAR_272	3.4649091249e-09	ABX determinants
+Elfamycin	SAR_272	0	ABX determinants
+Beta-lactam	SAR_272	1.10686936966e-08	ABX determinants
+Peptide	SAR_272	1.84297255377e-10	ABX determinants
+Coumarin	SAR_272	1.83137121885e-10	ABX mutations
+Rifampin	SAR_272	7.40573365388e-10	ABX mutations
+Sulfonamides	SAR_272	2.26778102604e-09	ABX mutations
+Fluoroquinolones	SAR_272	8.23998408173e-09	ABX mutations
+Aminoglycoside	Kh_232	4.83493942525e-10	ABX determinants
+Tetracycline derivative	Kh_232	5.82047180147e-08	ABX determinants
+Nucleoside	Kh_232	7.64322489632e-11	ABX determinants
+Pleuromutilin	Kh_232	0	ABX determinants
+Diaminopyrimidine	Kh_232	7.54460263959e-10	ABX determinants
+Glycopeptide	Kh_232	0	ABX determinants
+Lincosamide	Kh_232	2.62265609635e-08	ABX determinants
+Streptogramin	Kh_232	2.96919985856e-08	ABX determinants
+Sulfonamide	Kh_232	0	ABX determinants
+Aminonucleoside	Kh_232	0	ABX determinants
+Aminocoumarin	Kh_232	3.05279144998e-10	ABX determinants
+Miscellaneous	Kh_232	0	ABX determinants
+Rifamycin	Kh_232	1.11771890957e-10	ABX determinants
+Lipopeptide	Kh_232	9.31711826332e-10	ABX determinants
+Fluoroquinolone	Kh_232	1.55036213872e-09	ABX determinants
+Oxazolidinone	Kh_232	0	ABX determinants
+Macrolide	Kh_232	3.13887400044e-08	ABX determinants
+Phenicol	Kh_232	1.21122039527e-09	ABX determinants
+Elfamycin	Kh_232	0	ABX determinants
+Beta-lactam	Kh_232	4.5908376728e-08	ABX determinants
+Peptide	Kh_232	2.27346470792e-10	ABX determinants
+Coumarin	Kh_232	5.89072195778e-10	ABX mutations
+Rifampin	Kh_232	1.01356881012e-09	ABX mutations
+Sulfonamides	Kh_232	2.19654296776e-10	ABX mutations
+Fluoroquinolones	Kh_232	9.06298694753e-09	ABX mutations
+Metals	TYV_214	2.58856462853e-09	Metals
+Biocides	TYV_214	1.80482615896e-09	Biocides
+Metals	Spb_100_40P	3.36780706417e-09	Metals
+Biocides	Spb_100_40P	1.42326994142e-09	Biocides
+Metals	SAR_262	7.74688114152e-10	Metals
+Biocides	SAR_262	0.0	Biocides
+Aminoglycoside	OM_176	2.77448351388e-09	ABX determinants
+Tetracycline derivative	OM_176	1.38839931786e-07	ABX determinants
+Nucleoside	OM_176	5.35912220452e-10	ABX determinants
+Pleuromutilin	OM_176	0	ABX determinants
+Diaminopyrimidine	OM_176	7.5939076901e-09	ABX determinants
+Glycopeptide	OM_176	4.74164941169e-11	ABX determinants
+Lincosamide	OM_176	8.92917930952e-09	ABX determinants
+Streptogramin	OM_176	6.31459212164e-09	ABX determinants
+Sulfonamide	OM_176	1.42735005105e-11	ABX determinants
+Aminonucleoside	OM_176	0	ABX determinants
+Aminocoumarin	OM_176	3.12531530126e-09	ABX determinants
+Miscellaneous	OM_176	0	ABX determinants
+Rifamycin	OM_176	1.05799444812e-09	ABX determinants
+Lipopeptide	OM_176	6.83631668784e-09	ABX determinants
+Fluoroquinolone	OM_176	1.00577413098e-08	ABX determinants
+Oxazolidinone	OM_176	0	ABX determinants
+Macrolide	OM_176	9.8395209221e-09	ABX determinants
+Phenicol	OM_176	3.2450063571e-09	ABX determinants
+Elfamycin	OM_176	0	ABX determinants
+Beta-lactam	OM_176	4.46217525781e-08	ABX determinants
+Peptide	OM_176	1.40277465588e-09	ABX determinants
+Coumarin	OM_176	1.88142642534e-09	ABX mutations
+Rifampin	OM_176	4.7355314516e-10	ABX mutations
+Sulfonamides	OM_176	1.00967040546e-10	ABX mutations
+Fluoroquinolones	OM_176	8.59168392114e-09	ABX mutations
+Aminoglycoside	RND_308	1.07372077294e-09	ABX determinants
+Tetracycline derivative	RND_308	1.42603190403e-07	ABX determinants
+Nucleoside	RND_308	2.10953586709e-10	ABX determinants
+Pleuromutilin	RND_308	0	ABX determinants
+Diaminopyrimidine	RND_308	1.24013489167e-08	ABX determinants
+Glycopeptide	RND_308	0	ABX determinants
+Lincosamide	RND_308	8.32154473309e-08	ABX determinants
+Streptogramin	RND_308	8.335897984e-08	ABX determinants
+Sulfonamide	RND_308	1.40463587723e-10	ABX determinants
+Aminonucleoside	RND_308	0	ABX determinants
+Aminocoumarin	RND_308	2.28788505114e-11	ABX determinants
+Miscellaneous	RND_308	0	ABX determinants
+Rifamycin	RND_308	1.54245633292e-11	ABX determinants
+Lipopeptide	RND_308	1.41225897956e-10	ABX determinants
+Fluoroquinolone	RND_308	6.97883159833e-11	ABX determinants
+Oxazolidinone	RND_308	0	ABX determinants
+Macrolide	RND_308	8.35135709431e-08	ABX determinants
+Phenicol	RND_308	1.85450711412e-09	ABX determinants
+Elfamycin	RND_308	0	ABX determinants
+Beta-lactam	RND_308	4.11802249913e-08	ABX determinants
+Peptide	RND_308	5.57758207385e-11	ABX determinants
+Coumarin	RND_308	1.67760518346e-09	ABX mutations
+Rifampin	RND_308	2.92740077311e-09	ABX mutations
+Sulfonamides	RND_308	4.97149810138e-10	ABX mutations
+Fluoroquinolones	RND_308	1.80849142309e-08	ABX mutations
+Metals	OM_195	1.35131930133e-09	Metals
+Biocides	OM_195	3.5430994038e-10	Biocides
+Aminoglycoside	SAR_274	5.0373533073e-09	ABX determinants
+Tetracycline derivative	SAR_274	9.18934850238e-08	ABX determinants
+Nucleoside	SAR_274	2.070642605e-10	ABX determinants
+Pleuromutilin	SAR_274	0	ABX determinants
+Diaminopyrimidine	SAR_274	1.49887806633e-09	ABX determinants
+Glycopeptide	SAR_274	0	ABX determinants
+Lincosamide	SAR_274	6.56480684333e-09	ABX determinants
+Streptogramin	SAR_274	3.0221119638e-09	ABX determinants
+Sulfonamide	SAR_274	2.48172979047e-10	ABX determinants
+Aminonucleoside	SAR_274	0	ABX determinants
+Aminocoumarin	SAR_274	7.94751476009e-10	ABX determinants
+Miscellaneous	SAR_274	0	ABX determinants
+Rifamycin	SAR_274	3.78504562205e-10	ABX determinants
+Lipopeptide	SAR_274	1.60548346109e-09	ABX determinants
+Fluoroquinolone	SAR_274	3.31750516347e-09	ABX determinants
+Oxazolidinone	SAR_274	0	ABX determinants
+Macrolide	SAR_274	4.12963883174e-09	ABX determinants
+Phenicol	SAR_274	3.24370787849e-09	ABX determinants
+Elfamycin	SAR_274	0	ABX determinants
+Beta-lactam	SAR_274	4.42480024989e-09	ABX determinants
+Peptide	SAR_274	6.56969862719e-10	ABX determinants
+Coumarin	SAR_274	1.3922030876e-09	ABX mutations
+Rifampin	SAR_274	9.9912238262e-10	ABX mutations
+Sulfonamides	SAR_274	0.0	ABX mutations
+Fluoroquinolones	SAR_274	1.6515317136e-08	ABX mutations
+Aminoglycoside	OM_178	8.82711653256e-09	ABX determinants
+Tetracycline derivative	OM_178	1.20423132416e-07	ABX determinants
+Nucleoside	OM_178	5.20629309439e-09	ABX determinants
+Pleuromutilin	OM_178	0	ABX determinants
+Diaminopyrimidine	OM_178	1.84076491835e-09	ABX determinants
+Glycopeptide	OM_178	7.88271646087e-10	ABX determinants
+Lincosamide	OM_178	2.39891929297e-09	ABX determinants
+Streptogramin	OM_178	1.23491232037e-09	ABX determinants
+Sulfonamide	OM_178	0	ABX determinants
+Aminonucleoside	OM_178	0	ABX determinants
+Aminocoumarin	OM_178	4.51818559318e-10	ABX determinants
+Miscellaneous	OM_178	0	ABX determinants
+Rifamycin	OM_178	1.25222103289e-10	ABX determinants
+Lipopeptide	OM_178	9.8903737187e-10	ABX determinants
+Fluoroquinolone	OM_178	1.43563721131e-09	ABX determinants
+Oxazolidinone	OM_178	0	ABX determinants
+Macrolide	OM_178	1.75073877504e-09	ABX determinants
+Phenicol	OM_178	9.17300068939e-09	ABX determinants
+Elfamycin	OM_178	0	ABX determinants
+Beta-lactam	OM_178	5.94765436313e-09	ABX determinants
+Peptide	OM_178	3.62246395517e-10	ABX determinants
+Coumarin	OM_178	2.14682855205e-09	ABX mutations
+Rifampin	OM_178	1.08361594949e-09	ABX mutations
+Sulfonamides	OM_178	0.0	ABX mutations
+Fluoroquinolones	OM_178	9.59243335749e-09	ABX mutations
+Aminoglycoside	SAR_266	3.10830020697e-10	ABX determinants
+Tetracycline derivative	SAR_266	9.10741891711e-08	ABX determinants
+Nucleoside	SAR_266	2.5458088628e-10	ABX determinants
+Pleuromutilin	SAR_266	0	ABX determinants
+Diaminopyrimidine	SAR_266	3.86916019793e-09	ABX determinants
+Glycopeptide	SAR_266	7.79388743408e-11	ABX determinants
+Lincosamide	SAR_266	1.01281272791e-08	ABX determinants
+Streptogramin	SAR_266	8.76218477725e-09	ABX determinants
+Sulfonamide	SAR_266	0	ABX determinants
+Aminonucleoside	SAR_266	0	ABX determinants
+Aminocoumarin	SAR_266	1.31928780183e-10	ABX determinants
+Miscellaneous	SAR_266	0	ABX determinants
+Rifamycin	SAR_266	2.65921663088e-11	ABX determinants
+Lipopeptide	SAR_266	3.95286321355e-10	ABX determinants
+Fluoroquinolone	SAR_266	4.38215479141e-10	ABX determinants
+Oxazolidinone	SAR_266	0	ABX determinants
+Macrolide	SAR_266	8.86737741759e-09	ABX determinants
+Phenicol	SAR_266	1.91753922024e-08	ABX determinants
+Elfamycin	SAR_266	0	ABX determinants
+Beta-lactam	SAR_266	2.37475160827e-09	ABX determinants
+Peptide	SAR_266	9.6158307333e-11	ABX determinants
+Coumarin	SAR_266	1.07378314897e-09	ABX mutations
+Rifampin	SAR_266	7.14695810146e-10	ABX mutations
+Sulfonamides	SAR_266	5.91498346659e-10	ABX mutations
+Fluoroquinolones	SAR_266	5.93724923094e-09	ABX mutations
+Metals	Kh_245	3.62780884765e-09	Metals
+Biocides	Kh_245	1.8825073506e-09	Biocides
+Metals	SAR_264	4.3915609075e-09	Metals
+Biocides	SAR_264	3.12263452188e-09	Biocides
+Metals	RND_305	7.1875721487e-10	Metals
+Biocides	RND_305	7.28749337094e-11	Biocides
+Metals	TYV_219	3.01930887918e-10	Metals
+Biocides	TYV_219	1.05997394649e-10	Biocides
+Metals	NOV_285	1.70992689494e-09	Metals
+Biocides	NOV_285	4.34062403966e-09	Biocides
