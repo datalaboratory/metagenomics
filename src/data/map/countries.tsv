@@ -1,17 +1,17 @@
-name	continent	iso_3166_code
-Canada	America	124
-China	Asia	156
-Denmark	Europe	208
-France	Europe	250
-Germany	Europe	276
-Israel	Asia	376
-Italy	Europe	380
-Japan	Asia	392
-Peru	America	604
-Russia	Asia	643
-Singapore	Asia	702
-Spain	Europe	724
-Sweden	Europe	752
-Tanzania	Africa	834
-USA	America	840
-Venezuela	America	862
+name	code
+Canada	CA
+China	CN
+Denmark	DK
+France	FR
+Germany	DE
+Israel	IL
+Italy	IT
+Japan	JP
+Peru	PE
+Russia	RU
+Singapore	SG
+Spain	ES
+Sweden	SE
+Tanzania	TZ
+USA	US
+Venezuela	VE
