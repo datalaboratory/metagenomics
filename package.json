@@ -16,6 +16,7 @@
     "d3-geo-projection": "^0.2.16",
     "d3-queue": "^3.0.0",
     "del": "^2.2.0",
+    "excel-builder": "^2.0.3",
     "gulp": "^3.9.1",
     "gulp-angular-templatecache": "^1.8.0",
     "gulp-coffee": "^2.3.2",
